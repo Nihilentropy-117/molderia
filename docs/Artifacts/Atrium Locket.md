@@ -1,5 +1,3 @@
-## The Atrium Locket
-
 This ancient locket houses a shard of [Silver_Atrium](../Places/Silver_Atrium.md)of [HIELCIOFNONA](../Places/HIELCIOFNONA.md), granting its wearer the ability to forge connections between disparate timelines and locations. 
 
 

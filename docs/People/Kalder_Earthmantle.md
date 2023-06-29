@@ -1,6 +1,6 @@
 Kalder Earthmantle
 
-Kalder Earthmantle, a dwarven druid, honed his abilities in the depths of the [Crystal_Caverns](../Places/Crystal_Caverns.md), earning recognition from [Zorandar_the_Unyielding_Flame](../Gods/Zorandar_the_Unyielding_Flame.md). 
+Kalder Earthmantle, a dwarven druid, honed his abilities in the depths of the [Crystal_Caverns](../Places/Crystal_Caverns.md), earning recognition from [Zorandar the Unyielding_Flame](Zorandar%20the%20Unyielding_Flame.md). 
 
 
 ---

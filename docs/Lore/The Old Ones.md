@@ -6,4 +6,4 @@ The Old Ones are often described as inscrutable, existing beyond the conventiona
 
 The Old Ones first intervened in Molderia's timeline by aiding the primitive Azlanti humans, whom they found intriguing. Through subtle manipulations and sharing cryptic secrets, they guided the Azlanti, enabling their transformation from primitive tribes into a thriving civilization, thereby initiating the era of the Azlanti Empire.
 
-Despite their pivotal role in the rise of the Azlanti, the Old Ones played an equally critical part in their downfall. When the Azlanti began to misuse their powers and knowledge, the Old Ones responded by triggering the [Deucenium_Impact](Deucenium_Impact.md), a cataclysmic event that drastically altered Molderia and its inhabitants.
+Despite their pivotal role in the rise of the Azlanti, the Old Ones played an equally critical part in their downfall. When the Azlanti began to misuse their powers and knowledge, the Old Ones responded by triggering the [Deucenium Impact](Deucenium%20Impact.md), a cataclysmic event that drastically altered Molderia and its inhabitants.

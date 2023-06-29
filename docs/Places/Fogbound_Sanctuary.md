@@ -1,6 +1,6 @@
 ## The Fogbound Sanctuary
 
-In the dark heart of [Phandor_Forest](Phandor_Forest.md) lies the Fogbound Sanctuary, an ancient temple imbued with strange energies bestowed by [The_Lady](../Gods/The_Lady.md) herself. Enveloped in perpetual mist, a cryptic order of monks safeguards powerful symbols of luck and fortune. 
+In the dark heart of [Phandor_Forest](Phandor_Forest.md) lies the Fogbound Sanctuary, an ancient temple imbued with strange energies bestowed by [The Lady](The%20Lady.md) herself. Enveloped in perpetual mist, a cryptic order of monks safeguards powerful symbols of luck and fortune. 
 
 
 ---
