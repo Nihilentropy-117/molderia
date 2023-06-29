@@ -1,0 +1,13 @@
+## Zerim the Bureaucrat
+
+Zerim is the Bureaucrat, a mortal who abides by the letter of the law, but whose soul dances with the flames of manipulation and control. Born and raised amidst the shadowy, twisted corridors of [Crow_City](../Places/Crow_City.md), he now maintains his austere hold in the Grey Office. Clad in his severe ensemble of an ironed white shirt, austere dark trousers, and a waistcoat brandishing badges of office, he personifies the public face of order and regulation.
+
+In his heart, Zerim cherishes power and control, but his profession requires an unwavering commitment to the law. With an intimate understanding of legal intricacies, fostered in the hushed aisles of [Office](../Places/Office.md), he wields the law not as a shield for justice, but as a weapon to subtly enforce his will.
+
+His daily occupation finds him poring over parchment, executing the duties of his role with impeccable precision. Where his predecessor was a beacon of empathy and justice, Zerim uses the regulations of the Office as a tool for personal advancement, hidden behind the veil of public duty.
+
+Outwardly, Zerim manifests an unshakeable commitment to order and process. Beneath this facade of diligence and objectivity, however, resides a cunning mind and a calculating heart. His humor is as dry as desert sand, often manifesting as thinly-veiled sarcasm that delights in the discomfort of others. Yet, for all his personal flaws, he never misses a deadline, wielding bureaucracy with the precision of a seasoned maestro.
+
+Zerim views the emotional complexities of individuals like Djimm as opportunities for exploitation, not as facets of their humanity. His devotion to order is simply a means to an end, a way to exert control under the guise of maintaining societal stability. Though he openly acknowledges Djimm's role, it's with the clandestine hope to manipulate it to his benefit.
+
+Yet, when the mask of the bureaucrat is in place, Zerim embodies the essence of duty and commitment. His anger, when roused, is as cold and implacable as an icy winter storm, sweeping away opposition with frigid resolve. He stands as an unwavering pillar of the law, yet in the recesses of his heart, a darker agenda unfurls. His commitment to rules and order is a convenient mask, one that conceals his true nature from the world. Despite this, or perhaps because of it, he holds a certain respect among those who mistake his determination for virtue, making him an alarmingly effective figure within the sphere of law and order.
