@@ -6,6 +6,6 @@ The Azlanti Stones are not merely decorative; they are a powerful tool for spell
 
 Moreover, Azlanti Stones can also store spells. A spellcaster can infuse a Stone with a prepared spell, preserving it within the Stone until the user chooses to release it. This feature offers spellcasters a strategic way to prepare for battles and challenges, essentially allowing them to carry a reserve of spells outside their own mental capacity.
 
-The Azlanti Stones were gifted to the early Azlanti humans by the [The Old Ones](The%20Old%20Ones.md), the cosmic entities that guided their civilization. The Stones played a crucial role in the transformation of the Azlanti from primitive tribes to a civilization marked by advanced magic and technology.
+The Azlanti Stones were gifted to the early Azlanti humans by [The Old Ones](docs/Lore/The%20Old%20Ones.md), the cosmic entities that guided their civilization. The Stones played a crucial role in the transformation of the Azlanti from primitive tribes to a civilization marked by advanced magic and technology.
 
 Despite the fall of the Azlanti Empire following the Deucenium Impact, the Azlanti Stones didn't lose their significance. Although the Deucenium's presence enabled inherent spell-casting abilities in Molderia's inhabitants, the stones power has recently been rediscovered by a select research group of dwarves in [Gothargiglas](../Places/Gothargiglas.md)
