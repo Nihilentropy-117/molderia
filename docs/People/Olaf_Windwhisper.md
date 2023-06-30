@@ -1,6 +1,6 @@
 ## Olaf Windwhisper
 
-[Olaf Windwhisper](.md), an aged treant healer, was once entrusted with magical seeds by [The Lady](../Gods/The%20Lady.md), the Goddess of Luck. These remarkable seeds brought life and prosperity to [Bummehilldes](../Places/Bummehilldes.md), turning the desolate desert into a paradise. 
+Olaf Windwhisper, an aged treant healer, was once entrusted with magical seeds by [The Lady](../Gods/The%20Lady.md), the Goddess of Luck. These remarkable seeds brought life and prosperity to [Bummehilldes](../Places/Bummehilldes.md), turning the desolate desert into a paradise. 
 
 
 ---

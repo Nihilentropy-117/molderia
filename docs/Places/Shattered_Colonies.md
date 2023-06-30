@@ -1,6 +1,6 @@
 ## The Shattered Colonies
 
-[The Shattered Colonies](.md) is a vast archipelago marked by the remnants of [Azlanti Ruins](Azlanti_Ruins.md), with each island on the brink of sinking beneath the waves. The survivors of the Azlant catastrophe, now hardened and cunning sea-farers, fervently protect their people and secrets from outsiders. The islands hide countless strange artifacts, some revealing cryptic warnings.
+The Shattered Colonies is a vast archipelago marked by the remnants of [Azlanti Ruins](Azlanti_Ruins.md), with each island on the brink of sinking beneath the waves. The survivors of the Azlant catastrophe, now hardened and cunning sea-farers, fervently protect their people and secrets from outsiders. The islands hide countless strange artifacts, some revealing cryptic warnings.
 
 
 ---

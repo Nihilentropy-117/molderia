@@ -1,6 +1,6 @@
 ## Whispering Glade
 
-[Whispering Glade](.md) is a secluded and enchanted grove in [Darkmoon Vale](Darkmoon_Vale.md), where the [Nethrael](../Lore/Nethrael.md) standing stones whisper ancient knowledge and prophecies to those who manage to decipher their otherworldly language. The energy emanating from the stones attracts all kinds of mythical creatures, such as time-shifting couriers. The serenity of the glade belies the dangerous shadows that lie beneath its captivating allure.
+Whispering Glade is a secluded and enchanted grove in [Darkmoon Vale](Darkmoon_Vale.md), where the [Nethrael](../Lore/Nethrael.md) standing stones whisper ancient knowledge and prophecies to those who manage to decipher their otherworldly language. The energy emanating from the stones attracts all kinds of mythical creatures, such as time-shifting couriers. The serenity of the glade belies the dangerous shadows that lie beneath its captivating allure.
 
 
 ---

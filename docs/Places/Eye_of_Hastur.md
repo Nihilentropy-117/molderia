@@ -1,6 +1,6 @@
 ## The Eye of Hastur
 
-[The Eye of Hastur](.md) is a massive, bone-chilling lake in the heart of a sprawling swamp. The walls of the lake are lined with hundreds of skeletal bloodfins, remnants from [Neerok](../People/Neerok.md)'s rule before his demise. 
+The Eye of Hastur is a massive, bone-chilling lake in the heart of a sprawling swamp. The walls of the lake are lined with hundreds of skeletal bloodfins, remnants from [Neerok](../People/Neerok.md)'s rule before his demise. 
 
 
 ---

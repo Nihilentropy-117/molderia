@@ -1,6 +1,6 @@
 ## Baelgor Earthshaker
 
-[Baelgor Earthshaker](.md), a dwarven geomancer from [Gothargiglas](../Places/Gothargiglas.md), became a member of the Council of Dwarves after discovering powerful artifacts in the [Azlanti Ruins](../Places/Azlanti_Ruins.md). Using his mastery of geological magic alongside the powerful artifacts, he seeks to restore balance to the world. Despite a gruff exterior, he secretly collaborates with [Djimm](Djimm.md) the Necromancer to uncover and protect dangerous secrets.
+Baelgor Earthshaker, a dwarven geomancer from [Gothargiglas](../Places/Gothargiglas.md), became a member of the Council of Dwarves after discovering powerful artifacts in the [Azlanti Ruins](../Places/Azlanti_Ruins.md). Using his mastery of geological magic alongside the powerful artifacts, he seeks to restore balance to the world. Despite a gruff exterior, he secretly collaborates with [Djimm](Djimm.md) the Necromancer to uncover and protect dangerous secrets.
 
 
 
