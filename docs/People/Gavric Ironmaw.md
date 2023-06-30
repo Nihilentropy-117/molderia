@@ -4,5 +4,5 @@ Gavric Ironmaw, a former gladiator slave from [Grayfalcon Castle](../Places/Gray
 
 
 ---
-TAGS: former_gladiator_slave | Grayfalcon_Castle | battle_master_fighter | eradication_of_slavery | Djimm | challenging_tyranny | freed_slave | hardened_exterior | compassionate_heart | city_to_city
+TAGS: former gladiator slave | Grayfalcon Castle | battle master fighter | eradication of slavery | Djimm | challenging tyranny | freed slave | hardened exterior | compassionate heart | city to city
 

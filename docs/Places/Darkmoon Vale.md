@@ -1,6 +1,6 @@
 ## Darkmoon Vale
 
-In the heart of Northeast Molderia lies the enigmatic and majestic Darkmoon Vale, a vast and dense forest teeming with ancient magic and whispered secrets. Its lush canopy and mystical ambiance resemble the legendary [Phandor_Forest](Phandor_Forest.md), while its winding, shaded paths echo a magical allure. The air is thick with an undercurrent of energy. This sprawling woodland is home to a diverse array of inhabitants, each with their unique stories and customs. 
+In the heart of Northeast Molderia lies the enigmatic and majestic Darkmoon Vale, a vast and dense forest teeming with ancient magic and whispered secrets. Its lush canopy and mystical ambiance resemble the legendary [Phandor Forest](Phandor Forest.md), while its winding, shaded paths echo a magical allure. The air is thick with an undercurrent of energy. This sprawling woodland is home to a diverse array of inhabitants, each with their unique stories and customs. 
 
 Living within the Vale's borders, three distinct groups share this enchanting realm: the proud citizens of Altumbel, the hardy humans dwelling in the coastal cities along the rocky northern shores, and the reclusive half-elf villagers who embrace the serenity of the Vale, living in harmony with its ancient power and seeking solace from the outside world.
 
