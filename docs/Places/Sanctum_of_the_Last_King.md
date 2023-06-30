@@ -1,6 +1,6 @@
 ## The Sanctum of the Last King
 
-Buried deep beneath the earth in the foothills of the [Tower of Rhanj](../Places/Tower_of_Rhanj.md) lies the Sanctum of the Last King, a tomb protected by intricate traps, cursed guardians, and untold enchantments. Those who seek the treasures within the Sanctum also aspire to learn the lost secrets of the ancient sorcerer-king of Ranj. Surviving the trials of the Sanctum may yield a chance encounter with the spirit of the sorcerer-king who, some say, longs to share knowledge of his lost empire.
+Buried deep beneath the earth in the foothills of the [Tower of Rhanj](Tower_of_Rhanj.md) lies the Sanctum of the Last King, a tomb protected by intricate traps, cursed guardians, and untold enchantments. Those who seek the treasures within the Sanctum also aspire to learn the lost secrets of the ancient sorcerer-king of Ranj. Surviving the trials of the Sanctum may yield a chance encounter with the spirit of the sorcerer-king who, some say, longs to share knowledge of his lost empire.
 
 
 ---

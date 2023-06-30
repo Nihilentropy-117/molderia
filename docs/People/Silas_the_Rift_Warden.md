@@ -1,6 +1,6 @@
 ## Silas the Rift Warden
 
-Silas the Rift Warden, a skilled sorcerer who has mastered the forbidden art of [Rift Key](Rift%20Key.md), uses his talents to bypass the boundaries of magic and reality. Operating in secret, he maintains an intricate network of portals throughout the [Azlanti Ruins](../Places/Azlanti_Ruins.md).
+Silas the Rift Warden, a skilled sorcerer who has mastered the forbidden art of [Rift Key](../Artifacts/Rift%20Key.md), uses his talents to bypass the boundaries of magic and reality. Operating in secret, he maintains an intricate network of portals throughout the [Azlanti Ruins](../Places/Azlanti_Ruins.md).
 
 
 ---

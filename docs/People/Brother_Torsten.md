@@ -1,6 +1,6 @@
 ## Brother Torsten
 
-[Brother Torsten](../People/Brother_Torsten.md) is a dwarf cleric of the Order of Balance who once trained under [Sir_George_DracoLich](Sir_George_DracoLich.md). After witnessing Sir George's transformation, Torsten turned against him and now tirelessly seeks to restore balance between light and dark in the reclusive city of [Sylvania](../Places/Sylvania.md).
+[Brother Torsten](.md) is a dwarf cleric of the Order of Balance who once trained under [Sir_George_DracoLich](Sir_George_DracoLich.md). After witnessing Sir George's transformation, Torsten turned against him and now tirelessly seeks to restore balance between light and dark in the reclusive city of [Sylvania](../Places/Sylvania.md).
 
 
 ---

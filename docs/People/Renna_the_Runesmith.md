@@ -4,5 +4,5 @@ Born in [Gothargiglas](../Places/Gothargiglas.md), Renna discovered an ancient [
 
 
 ---
-TAGS: [Gothargiglas](Gothargiglas.md) | Renna | ancient [Nethrael](../Lore/Nethrael.md) spell tome | arcane arts | mithral elves | Ruins of Sudi | sanctum | runes | menhir portals | Darkmoon Vale
+TAGS: [Gothargiglas](../Places/Gothargiglas.md) | Renna | ancient [Nethrael](../Lore/Nethrael.md) spell tome | arcane arts | mithral elves | Ruins of Sudi | sanctum | runes | menhir portals | Darkmoon Vale
 

@@ -1,6 +1,6 @@
 ## Yorick Bladewraith
 
-A shrewd human warlock who made a pact with the dark god [Hastur](../People/Hastur.md) in exchange for power, turning him into an instrument of chaos. Yorick is compelled to carry out the bidding of an apocalyptic prophecy etched within the [Solarium_of_Whispers](../Places/Solarium_of_Whispers.md).
+A shrewd human warlock who made a pact with the dark god [Hastur](Hastur.md) in exchange for power, turning him into an instrument of chaos. Yorick is compelled to carry out the bidding of an apocalyptic prophecy etched within the [Solarium_of_Whispers](../Places/Solarium_of_Whispers.md).
 
 
 ---

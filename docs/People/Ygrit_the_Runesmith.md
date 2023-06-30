@@ -5,5 +5,5 @@ A master craftswoman from the dwarven city of [Gothargiglas](../Places/Gothargig
 
 
 ---
-TAGS: dwarven city | [Gothargiglas](Gothargiglas.md) | master craftswoman | Ygrit | magical runes | Council of Dwarves | secret ally | [Nethrael](../Lore/Nethrael.md) language | Darkmoon Vale | ancient beings
+TAGS: dwarven city | [Gothargiglas](../Places/Gothargiglas.md) | master craftswoman | Ygrit | magical runes | Council of Dwarves | secret ally | [Nethrael](../Lore/Nethrael.md) language | Darkmoon Vale | ancient beings
 

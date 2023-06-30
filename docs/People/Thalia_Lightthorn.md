@@ -1,6 +1,6 @@
 ## Thalia Lightthorn
 
-[Thalia Lightthorn](../People/Thalia_Lightthorn.md), a human cleric of [Villalobos](../People/Villalobos.md) the Tinkerer, preaches the importance of self-discovery and renewal. After surviving the [Eye_of_Hastur](../Places/Eye_of_Hastur.md)'s curse, she embarks on a quest to restore peace to the [Chronotide Marshlands](../Places/Chronotide_Marshlands.md). 
+[Thalia Lightthorn](.md), a human cleric of [Villalobos](Villalobos.md) the Tinkerer, preaches the importance of self-discovery and renewal. After surviving the [Eye_of_Hastur](../Places/Eye_of_Hastur.md)'s curse, she embarks on a quest to restore peace to the [Chronotide Marshlands](../Places/Chronotide_Marshlands.md). 
 
 
 ---

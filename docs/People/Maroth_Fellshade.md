@@ -1,6 +1,6 @@
 ## Maroth Fellshade
 
-Maroth, a tiefling warlock, unknowingly mirrors [Yorick Bladewraith](../People/Yorick_Bladewraith.md)'s path when he enters into a pact with the dark god [Hastur](../People/Hastur.md). As he rises in power by delving into the mysteries of [Lunarspire Citadel](../Places/Lunarspire_Citadel.md), he stumbles upon the dark prophecy contained within. His journey to stop Yorick and prevent the prophecy's fulfillment leads him to ally with [Captain Flintlocke One-Eye](../People/Captain_Flintlocke_One-Eye.md) and his undead crew, sailing the treacherous seas towards an uncertain destiny.
+Maroth, a tiefling warlock, unknowingly mirrors [Yorick Bladewraith](Yorick_Bladewraith.md)'s path when he enters into a pact with the dark god [Hastur](Hastur.md). As he rises in power by delving into the mysteries of [Lunarspire Citadel](../Places/Lunarspire_Citadel.md), he stumbles upon the dark prophecy contained within. His journey to stop Yorick and prevent the prophecy's fulfillment leads him to ally with [Captain Flintlocke One-Eye](Captain_Flintlocke_One-Eye.md) and his undead crew, sailing the treacherous seas towards an uncertain destiny.
 
 
 
