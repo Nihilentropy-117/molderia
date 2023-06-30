@@ -1,6 +1,6 @@
 ## [Nethrael](../Lore/Nethrael.md)
 
-The [Nethrael](../Lore/Nethrael.md) were an ancient and mystical race of mithral elves that once dominated [Darkmoon Vale](../Places/Darkmoon_Vale.md).. Known for their exceptional skill in spellcraft, they left an indelible mark on the world with their intricate understanding of magic and its application. Although this vanished race's whereabouts and ultimate fate remain shrouded in mystery, their impact can still be felt and witnessed through various remnants that scatter the landscape.
+The [Nethrael](../Lore/Nethrael.md) were an ancient and mystical race of mithral elves that once dominated [Darkmoon Vale](../Places/Darkmoon_Vale.md). Known for their exceptional skill in spellcraft, they left an indelible mark on the world with their intricate understanding of magic and its application. Although this vanished race's whereabouts and ultimate fate remain shrouded in mystery, their impact can still be felt and witnessed through various remnants that scatter the landscape.
 
 One of the most significant and enduring legacies of the [Nethrael](../Lore/Nethrael.md) are the menhir circles they constructed throughout Molderia. These mystical monuments, often made from immense stones and engraved with enigmatic runes, stand as testaments to their magical prowess and serve as focal points of potent arcane energy.
 
