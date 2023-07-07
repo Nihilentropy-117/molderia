@@ -1,6 +1,6 @@
 import os
 
-folder_path = '../docs'
+folder_path = '../docs/Sessions'
 
 for root, dirs, files in os.walk(folder_path):
     for filename in files:
@@ -9,8 +9,14 @@ for root, dirs, files in os.walk(folder_path):
             with open(file_path, 'r') as file:
                 content = file.read()
         
-            modified_content = content.replace('_', ' ')
+            #modified_content = content.replace('#', '')
+            
+            modified_content = f"### Session {filename.replace('L', '').replace('.md', '')} ###\n\n{content}"
+            
+            
             print(f"Replaced in {filename}")
             with open(file_path, 'w') as file:
                 file.write(modified_content)
+
+
 
