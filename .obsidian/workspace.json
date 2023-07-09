@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sessions/L/L7.04.md",
+                "file": "docs/Places/Beneathul Crypts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7afc8f0b76cf6779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Pact for Balance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/L/L7.04.md",
+                "file": "A Pact for Balance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Sessions/L/L7.04.md",
+                "file": "A Pact for Balance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Sessions/L/L7.04.md"
+                "file": "A Pact for Balance.md"
               }
             }
           }
@@ -207,8 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17c55286f83cdaf1",
+  "active": "7afc8f0b76cf6779",
   "lastOpenFiles": [
+    "docs/Places/Beneathul Crypts.md",
+    "A Pact for Balance.md",
+    "docs/Places/Darkmoon Vale.md",
+    "docs/Places/Mirrored Haven of Elira.md",
+    "docs/Places/Leyline Nexus.md",
+    "docs/Sessions/L/L7.04.md",
     "docs/Sessions/L/L7.03.md",
     "docs/Sessions/L/L7.02.md",
     "docs/Sessions/L/L7.01.md",
@@ -229,12 +247,6 @@
     "docs/Sessions/L/L4.03.md",
     "docs/Sessions/L/L4.02.md",
     "docs/Sessions/L/L4.01.md",
-    "docs/Sessions/L/L3.09.md",
-    "docs/Sessions/L/L3.08.md",
-    "docs/Sessions/L/L3.07.md",
-    "docs/Sessions/L/L3.06.md",
-    "docs/Sessions/L/L3.05.md",
-    "docs/Sessions/L/L3.04.md",
     "docs/Tales",
     "docs/Tales from the Jorgenvault"
   ]
