@@ -14,7 +14,9 @@ permissions:
   contents: read
   pages: write
   id-token: write
-
+  pull-requests: write
+  issues: write
+  repository-projects: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
