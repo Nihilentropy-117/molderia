@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Tales/The Dance of Shadows.md",
+                "file": "docs/Sessions/L/L7.04.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Tales/The Dance of Shadows.md",
+                "file": "docs/Sessions/L/L7.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Tales/The Dance of Shadows.md",
+                "file": "docs/Sessions/L/L7.04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Tales/The Dance of Shadows.md"
+                "file": "docs/Sessions/L/L7.04.md"
               }
             }
           }
@@ -207,24 +207,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0886fbbf8d22b16",
+  "active": "17c55286f83cdaf1",
   "lastOpenFiles": [
-    "docs/Tales/The Fall of the Nethrael.md",
-    "docs/Tales/The Dance of Shadows.md",
+    "docs/Sessions/L/L7.03.md",
+    "docs/Sessions/L/L7.02.md",
+    "docs/Sessions/L/L7.01.md",
+    "docs/Sessions/L/L6.06.md",
+    "docs/Sessions/L/L6.05.md",
+    "docs/Sessions/L/L6.04.md",
+    "docs/Sessions/L/L6.03.md",
+    "docs/Sessions/L/L6.02.md",
+    "docs/Sessions/L/L6.01.md",
+    "docs/Sessions/L/L5.05.md",
+    "docs/Sessions/L/L5.04.md",
+    "docs/Sessions/L/L5.03.md",
+    "docs/Sessions/L/L5.02.md",
+    "docs/Sessions/L/L5.01.md",
+    "docs/Sessions/L/L4.06.md",
+    "docs/Sessions/L/L4.05.md",
+    "docs/Sessions/L/L4.04.md",
+    "docs/Sessions/L/L4.03.md",
+    "docs/Sessions/L/L4.02.md",
+    "docs/Sessions/L/L4.01.md",
+    "docs/Sessions/L/L3.09.md",
+    "docs/Sessions/L/L3.08.md",
+    "docs/Sessions/L/L3.07.md",
+    "docs/Sessions/L/L3.06.md",
+    "docs/Sessions/L/L3.05.md",
+    "docs/Sessions/L/L3.04.md",
     "docs/Tales",
-    "docs/Places/Office.md",
-    "docs/Tales/The Rise of Djimm.md",
-    "docs/index.md",
-    "docs/Tales from the Jorgenvault",
-    "docs/People/Djimm.md",
-    "docs/People/Dbz.md",
-    "docs/People/Dfreid.md",
-    "docs/People/Djinn.md",
-    "docs/Places/Djinn City.md",
-    "docs/Places/Ashen Monastery.md",
-    "docs/Places/Scarlet Ivy Inn.md",
-    "docs/Places/Phantoms Rest.md",
-    "docs/Places/Phandor Forest.md",
-    "docs/Places/Chamber of Eldritch Balance.md"
+    "docs/Tales from the Jorgenvault"
   ]
 }
