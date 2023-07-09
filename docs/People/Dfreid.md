@@ -1,0 +1,5 @@
+Dfreid is a notable entity recognized for his involvement in the management of a vast intercontinental shipping network. His ascension to this position occurred after he assumed control of the network from Anthony Karstark, a previous individual associated with the operation. It is worth noting that the specifics of this transition remain undisclosed.
+
+Dfreid's shipping network is distinguished by its utilization of advanced technological systems, which have allowed for efficient and expedient transportation of goods across vast distances within Molderia and beyond.
+
+An intriguing aspect of Dfreid's persona is his physical composition, which can be likened to a golem-like entity. This comparison is drawn due to his apparent ability to manifest a formidable suit of armor. However, it is important to note that the exact nature and origin of Dfreid's armor remains undisclosed.

@@ -1,21 +1,18 @@
 ## D'Jimm
 
-Djimm is necromancer who was raised by Fey and is considered extraplanar being. He lives in the Tower in the West.He is often found 
-wearing his bathrobe, a resplendent purple velvet affair. He serves evil as concept and aligns himself with dark entities to maintain 
-balance. Djimm possesses extensive knowledge of magic and history, which he acquired during his studies in ancient [Jorgenvault](../Places/Jorgenvault.md), 
-mysterious monolith containing secrets hidden within its ruins. He spends his time studying and has deep understanding of world. He was 
-chosen as replacement for previous necromancer and has managed to avoid corruption from tower's magic. tower and people of realm have 
-hesitant agreement with Djimm, who causes less property damage than previous necromancers. At first glance, Djimm may appear nonchalant 
-and carefree, but beneath this facade lies a complex character with a strong moral compass. He uses his sarcastic wit and dry humor to 
-cope with the darkness that constantly surrounds him, and his mischievous nature allows him to find joy in the occasional harmless 
-prank. Despite his propensity for tardiness, Djimm has an uncanny ability to show up just when he's needed most, as if guided by a 
-mysterious force. Djimm is an empathetic soul who struggles to grasp the motivations of others, but he's always willing to lend a 
-helping hand. He's a good-hearted individual, and his alliance with dark forces is motivated by a genuine desire to maintain balance in 
-the world. Djimm understands the importance of his role as the realm's necromancer and takes it very seriously, even if his outward 
-demeanor suggests otherwise.
-When the situation calls for it, Djimm knows how to buckle down and focus on the task at hand. His dedication to his studies and the pursuit of ancient knowledge has given him a profound understanding of the world and its intricacies. His innate goodness and steadfast commitment to maintaining balance have earned him the grudging respect of the realm's inhabitants, who recognize that he is a force for good despite his unconventional alliances.
+Djimm is an intriguing figure, a necromancer who was brought up by Fey and is acknowledged as an extraplanar entity. His abode is an imposing tower situated in the West, where he is often seen in his splendid purple velvet bathrobe, an ostentatious testament to his unique sense of style.
 
-While Djimm's outward demeanor may seem light-hearted and humorous, he possesses a fiery temper that can be ignited when he feels wronged or deceived. This passionate side of him often manifests in surprising displays of dark magic, intended to assert his authority and create a sense of shock and awe. However, his innate goodness and sense of justice prevent him from causing any real harm in these situations.
+Serving the concept of evil, Djimm aligns himself with the sinister entities of the netherworld in a peculiar effort to uphold balance. With a deep reservoir of knowledge about magic and history, obtained during his years of rigorous study in the ancient Jorgenvault - a monolith shrouded in mystery and veiling secrets within its decayed ruins - Djimm's understanding of the world is profound and layered.
+
+He fills the shoes of his predecessor as the realm's necromancer, having evaded the corruption typically associated with the magic of the tower. An uneasy truce exists between him, the tower, and the realm's inhabitants. They tolerate him because, unlike past necromancers, he inflicts far less property damage.
+
+At a superficial glance, Djimm might seem to be nonchalant and carefree. However, underneath this relaxed facade, there lurks a complex individual, guided by a robust moral compass. Djimm's sarcasm and dry humor are his coping mechanisms against the constant darkness that envelopes him, with his mischievous streak finding joy in an occasional harmless prank.
+
+Despite his proclivity for being late, Djimm has an uncanny knack for appearing just when he's needed the most, almost as if some mysterious force guides him. He is an empathetic soul, often puzzled by others' motives but always willing to lend a helping hand. At heart, he is good-natured. His alliance with the dark forces stems from a genuine wish to maintain balance in the world. Djimm comprehends the significance of his role as the realm's necromancer and takes his responsibilities seriously, regardless of his outwardly casual demeanor.
+
+When circumstances demand, Djimm knows how to pull himself together and concentrate on the matter at hand. His unyielding dedication to his studies and pursuit of ancient wisdom has yielded him a deep understanding of the world's complexities. His innate goodness and unwavering commitment to preserving balance have grudgingly earned him the respect of the realm's denizens, who now recognize him as a force of good, despite his unorthodox alliances.
+
+While Djimm usually comes across as light-hearted and amusing, he hides a fiery temper that flares when he feels wronged or tricked. This passion occasionally manifests in startling displays of dark magic, intended to assert his authority and elicit shock and awe. Yet his inherent goodness and strong sense of justice keep him from inflicting actual harm, even in these heated moments.
 
 
 ---
