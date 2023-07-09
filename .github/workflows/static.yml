@@ -24,5 +24,3 @@ jobs:
 
       - name: Build and Deploy MkDocs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.26
-        with:
-          config_file: 'mkdocs.yml'
