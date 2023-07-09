@@ -1,6 +1,6 @@
 ## Sylarus the Tombraider
 
-Born in [Sylvania](../Places/Sylvania.md), Sylarus grew fascinated by stories of the ancient ruins and hidden treasures that lie within the [Ruins of Sudi](../Places/Ruins%20of%20Sudi.md). Equipped with an enchanted map found in the secret barrow of souls, this intrepid adventurer dares to navigate the treacherous paths of the [Azlanti Ruins](../Places/Azlanti%20Ruins.md).
+Born in Sylvania, Sylarus grew fascinated by stories of the ancient ruins and hidden treasures that lie within the Ruins of Sudi. Equipped with an enchanted map found in the secret barrow of souls, this intrepid adventurer dares to navigate the treacherous paths of the Azlanti Ruins.
 
 
 ---

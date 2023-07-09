@@ -1,8 +1,8 @@
 ## Zerim the Bureaucrat
 
-Zerim is the Bureaucrat, a mortal who abides by the letter of the law, but whose soul dances with the flames of manipulation and control. Born and raised amidst the shadowy, twisted corridors of [Crow City](../Places/Crow%20City.md), he now maintains his austere hold in the Grey Office. Clad in his severe ensemble of an ironed white shirt, austere dark trousers, and a waistcoat brandishing badges of office, he personifies the public face of order and regulation.
+Zerim is the Bureaucrat, a mortal who abides by the letter of the law, but whose soul dances with the flames of manipulation and control. Born and raised amidst the shadowy, twisted corridors of Crow City, he now maintains his austere hold in the Grey Office. Clad in his severe ensemble of an ironed white shirt, austere dark trousers, and a waistcoat brandishing badges of office, he personifies the public face of order and regulation.
 
-In his heart, Zerim cherishes power and control, but his profession requires an unwavering commitment to the law. With an intimate understanding of legal intricacies, fostered in the hushed aisles of [Office](../Places/Office.md), he wields the law not as a shield for justice, but as a weapon to subtly enforce his will.
+In his heart, Zerim cherishes power and control, but his profession requires an unwavering commitment to the law. With an intimate understanding of legal intricacies, fostered in the hushed aisles of Office, he wields the law not as a shield for justice, but as a weapon to subtly enforce his will.
 
 His daily occupation finds him poring over parchment, executing the duties of his role with impeccable precision. Where his predecessor was a beacon of empathy and justice, Zerim uses the regulations of the Office as a tool for personal advancement, hidden behind the veil of public duty.
 

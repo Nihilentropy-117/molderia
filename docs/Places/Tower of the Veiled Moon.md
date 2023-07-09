@@ -1,6 +1,6 @@
 ## The Tower of the Veiled Moon
 
-Located high in the mountains near [Bork](Bork.md), the Tower of the Veiled Moon houses a powerful artifact that once belonged to the mysterious [Lady](../Gods/The%20Lady.md), the Goddess of Luck. The tower's path is shrouded in a supernatural mist that leads those who are not worthy astray. Those who do manage to find their way and brave its traps and secrets may just glimpse a vision of the Lady herself, briefly granting them her elusive favor.
+Located high in the mountains near Bork, the Tower of the Veiled Moon houses a powerful artifact that once belonged to the mysterious Lady, the Goddess of Luck. The tower's path is shrouded in a supernatural mist that leads those who are not worthy astray. Those who do manage to find their way and brave its traps and secrets may just glimpse a vision of the Lady herself, briefly granting them her elusive favor.
 
 
 ---

@@ -1,6 +1,6 @@
 ## Infernocrest Keep
 
-Rising ominously from the volcanic realm of [Goth](Gothic%20Mountains.md), this once-impenetrable fortress now lies in ruins, still smoldering with latent sorcery from the late master of the Keep. 
+Rising ominously from the volcanic realm of Goth, this once-impenetrable fortress now lies in ruins, still smoldering with latent sorcery from the late master of the Keep. 
 
 ---
 

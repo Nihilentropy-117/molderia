@@ -1,6 +1,6 @@
 ## The Monarch's Seat
 
-Deep within [Grayfalcon Castle](Grayfalcon%20Castle.md) lies the Monarch's Seat, a hidden throne room that controls the remnants of Zagig Yragerne's ancient magical defenses. To claim the Monarch's Seat and activate its power, one must traverse a treacherous gauntlet of the castle's latent sorcery, facing enchanted labyrinthine halls, animated constructs, and powerful wards. As the legend goes, the spectral ghost of [Pirate Wilp](../People/Pirate%20Wilp.md) once attempted to claim the throne, only to be thwarted.
+Deep within Grayfalcon Castle lies the Monarch's Seat, a hidden throne room that controls the remnants of Zagig Yragerne's ancient magical defenses. To claim the Monarch's Seat and activate its power, one must traverse a treacherous gauntlet of the castle's latent sorcery, facing enchanted labyrinthine halls, animated constructs, and powerful wards. As the legend goes, the spectral ghost of Pirate Wilp once attempted to claim the throne, only to be thwarted.
 
 
 ---

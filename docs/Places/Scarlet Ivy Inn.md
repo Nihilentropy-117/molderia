@@ -1,6 +1,6 @@
 ## Scarlet Ivy Inn
 
-Perched on the blurred edges of time and space at the crossroads near [Bummehilldes,](Bummehilldes.md) the Scarlet Ivy Inn is a quaint, yet mysterious locale that seems to transcend the ordinary laws of reality. Though it is but an inn to the untrained eye, this  establishment hides within its wooden timbers a magic that is the heartbeat of countless adventures and tales.
+Perched on the blurred edges of time and space at the crossroads near Bummehilldes, the Scarlet Ivy Inn is a quaint, yet mysterious locale that seems to transcend the ordinary laws of reality. Though it is but an inn to the untrained eye, this  establishment hides within its wooden timbers a magic that is the heartbeat of countless adventures and tales.
 
 Encrusted with creeping ivy painted the fiery hues of autumn, its frontage reveals an unending appeal that resonates with an unspoken call to action. Beneath the ornate wooden sign, etched with the inn's name in gold, adventurers of every stripe and origin find themselves inexplicably drawn through its welcoming double doors.
 

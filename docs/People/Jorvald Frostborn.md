@@ -1,6 +1,6 @@
 Jorvald Frostborn
 
-Jorvald Frostborn, the hardy dwarven defender of [Targallene](../Places/Targallene.md), has maintained order and protected the city from hostile forces for generations. 
+Jorvald Frostborn, the hardy dwarven defender of Targallene, has maintained order and protected the city from hostile forces for generations. 
 
 
 

@@ -1,6 +1,6 @@
 ## The Well of Whispers
 
-Nestled within the foggy marshlands of [Sudi](Ruins%20of%20Sudi.md), the Well of Whispers is a mystical portal to the shadowy plane known as Bard, those who dare to enter must overcome their greatest fears and navigate a maddening realm of twisted illusions. The greatest challenge of all lies in deciphering the faint, echoing sighs that offer either hope, despair or deception.
+Nestled within the foggy marshlands of Sudi, the Well of Whispers is a mystical portal to the shadowy plane known as Bard, those who dare to enter must overcome their greatest fears and navigate a maddening realm of twisted illusions. The greatest challenge of all lies in deciphering the faint, echoing sighs that offer either hope, despair or deception.
 
 
 ---

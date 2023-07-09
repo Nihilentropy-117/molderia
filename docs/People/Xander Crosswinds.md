@@ -1,6 +1,6 @@
 ## Xander Crosswinds
 
-A skilled ranger from the outskirts of [Bork](../Places/Bork.md), Xander is unmatched in his knowledge of local flora and fauna. The sudden appearance of strange, otherworldly creatures alarms him, leading Xander to seek out the [Tower of Rhanj](../Places/Tower%20of%20Rhanj.md) for answers. 
+A skilled ranger from the outskirts of Bork, Xander is unmatched in his knowledge of local flora and fauna. The sudden appearance of strange, otherworldly creatures alarms him, leading Xander to seek out the Tower of Rhanj for answers. 
 
 
 ---

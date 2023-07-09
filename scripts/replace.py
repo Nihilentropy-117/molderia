@@ -1,22 +1,25 @@
 import os
+import re
 
-folder_path = '../docs/Sessions'
+def remove_markdown_links(directory):
+    # Regex pattern to match markdown links: ![alt_text](url)
+    md_link_pattern = r"\[([^]]+)\]\(([^)]+)\)"
 
-for root, dirs, files in os.walk(folder_path):
-    for filename in files:
-        if filename.endswith('.md'):
-            file_path = os.path.join(root, filename)
-            with open(file_path, 'r') as file:
-                content = file.read()
-        
-            #modified_content = content.replace('#', '')
-            
-            modified_content = f"### Session {filename.replace('L', '').replace('.md', '')} ###\n\n{content}"
-            
-            
-            print(f"Replaced in {filename}")
-            with open(file_path, 'w') as file:
-                file.write(modified_content)
+    # Walk through directory, including subdirectories
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            # Process .md files only
+            if file.endswith('.md'):
+                file_path = os.path.join(root, file)
+                with open(file_path, 'r', encoding='utf8') as f:
+                    file_contents = f.read()
 
+                # Replace markdown links with link text
+                new_contents = re.sub(md_link_pattern, r'\1', file_contents)
 
+                # Write the modified contents back to the file
+                with open(file_path, 'w', encoding='utf8') as f:
+                    f.write(new_contents)
 
+# Example usage
+remove_markdown_links('../docs')

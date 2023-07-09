@@ -1,6 +1,6 @@
 ## Captain Elarian Farwater
 
-A seasoned airship captain, Elarian survived a harrowing encounter with the vengeful [Pirate Wilp](Pirate%20Wilp.md) and his spectral crew. Now haunted by the memories of that battle, he seeks to cleanse this supernatural threat from the skies. Learning of the [Necromancers Tower](../Places/Necromancers%20Tower.md), he hopes to strike a bargain with [Djimm](Djimm.md), believing that the tower's master holds the key to [Pirate Wilp](Pirate%20Wilp.md)'s ultimate defeat.
+A seasoned airship captain, Elarian survived a harrowing encounter with the vengeful Pirate Wilp and his spectral crew. Now haunted by the memories of that battle, he seeks to cleanse this supernatural threat from the skies. Learning of the Necromancers Tower, he hopes to strike a bargain with Djimm, believing that the tower's master holds the key to Pirate Wilp's ultimate defeat.
 
 
 ---

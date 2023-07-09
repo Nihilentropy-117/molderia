@@ -1,6 +1,6 @@
 ## Zephyra
 
-Zephyra, a mysterious air genasi monk, resides in the floating city of [HIELCIOFNONA](../Places/HIELCIOFNONA.md). Once held captive by [Djinn](Djinn.md)and granted freedom due to her mastery of elemental air, Zephyra now seeks to challenge D'jinn's capricious rule. Her connection to elemental air allows her to tap into powerful gusts.
+Zephyra, a mysterious air genasi monk, resides in the floating city of HIELCIOFNONA. Once held captive by Djinnand granted freedom due to her mastery of elemental air, Zephyra now seeks to challenge D'jinn's capricious rule. Her connection to elemental air allows her to tap into powerful gusts.
 
 
 ---

@@ -1,6 +1,6 @@
 Tear of Riftfire
 
-Forged from the heart of a meteor and infused with arcane energies from the [Shattered Gate](../Places/Shattered%20Gate.md), the Tear of Riftfire holds the potential to manipulate time through the sheer force of luck. The Tear of Riftfire not only grants the bearer glimpses of the future but also the strength and resilience to reshape fate itself.
+Forged from the heart of a meteor and infused with arcane energies from the Shattered Gate, the Tear of Riftfire holds the potential to manipulate time through the sheer force of luck. The Tear of Riftfire not only grants the bearer glimpses of the future but also the strength and resilience to reshape fate itself.
 
 
 ---

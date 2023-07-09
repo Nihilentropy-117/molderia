@@ -1,6 +1,6 @@
 ## Sorrow's Veil Cavern
 
-Located at the heart of the [Wailing Woods](Wailing%20Woods.md), Sorrow's Veil Cavern is a realm of tears, haunted by spirits eternally trapped in a cycle of lamentation.
+Located at the heart of the Wailing Woods, Sorrow's Veil Cavern is a realm of tears, haunted by spirits eternally trapped in a cycle of lamentation.
 
 
 ---

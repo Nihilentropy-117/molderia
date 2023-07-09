@@ -1,6 +1,6 @@
 ## The Vault of Frozen Time
 
-Deep within the icy caverns beneath [Darkmoon Vale](Darkmoon%20Vale.md), the Vault of Frozen Time, guarded by [Jorvald Frostborn](../People/Jorvald%20Frostborn.md) himself, harbors ancient enchanted relics from [Phineas Satinshadow](../People/Phineas%20Satinshadow.md)'s research on time manipulation. As the icy walls encase time itself, those who venture into the vault find themselves entwined in the time-twisted fates.
+Deep within the icy caverns beneath Darkmoon Vale, the Vault of Frozen Time, guarded by Jorvald Frostborn himself, harbors ancient enchanted relics from Phineas Satinshadow's research on time manipulation. As the icy walls encase time itself, those who venture into the vault find themselves entwined in the time-twisted fates.
 
 
 

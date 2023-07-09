@@ -1,6 +1,6 @@
 ## Kaelen Strongbrew
 
-A hardy dwarf ranger and skilled alchemist who discovered the secret access to [The Lady](../Gods/The%20Lady.md)'s casino and incurred her wrath. Knowing he cannot outsmart the Goddess of Luck, Kaelen travels through the mountains of [Bork](../Places/Bork.md), forging alliances among the dwarven clans and seeking assistance to restore balance to the luck bestowed upon him.
+A hardy dwarf ranger and skilled alchemist who discovered the secret access to The Lady's casino and incurred her wrath. Knowing he cannot outsmart the Goddess of Luck, Kaelen travels through the mountains of Bork, forging alliances among the dwarven clans and seeking assistance to restore balance to the luck bestowed upon him.
 
 
 ---

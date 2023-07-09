@@ -1,6 +1,6 @@
 ## Orin Grimtide
 
-Orin, a stoic human paladin, patrols the dangerous shores of [Lake Tseepoo](../Places/Lake%20Tseepoo.md).
+Orin, a stoic human paladin, patrols the dangerous shores of Lake Tseepoo.
 
 
 

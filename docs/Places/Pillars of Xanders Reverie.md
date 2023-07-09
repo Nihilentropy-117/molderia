@@ -1,6 +1,6 @@
 ## The Pillars of Xander's Reverie
 
-Hidden deep in Mogolo, the Pillars of Xander's Reverie is an otherworldly grove populated by the strange creatures that ignite [Xander Crosswinds](../People/Xander%20Crosswinds.md)' concern. Teeming with supernatural flora that feeds on powerful elemental air, this sacred site is guarded by [Zephyra](../People/Zephyra.md). Visitors seeking enlightenment and rare botanical specimens risk drawing the unwelcome attention of sinister machinations.
+Hidden deep in Mogolo, the Pillars of Xander's Reverie is an otherworldly grove populated by the strange creatures that ignite Xander Crosswinds' concern. Teeming with supernatural flora that feeds on powerful elemental air, this sacred site is guarded by Zephyra. Visitors seeking enlightenment and rare botanical specimens risk drawing the unwelcome attention of sinister machinations.
 
 
 ---

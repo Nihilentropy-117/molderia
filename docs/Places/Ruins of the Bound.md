@@ -1,6 +1,6 @@
 ## Ruins of the Bound
 
-Deep within the Burning Sands, east of [Lake Tseepoo](Lake%20Tseepoo.md), lies the Ruins of the Bound - a testament to a fierce battle waged between [Djimm](../People/Djimm.md) and rival celestial forces. The very earth bears the scars of their struggle, infused with the lingering essence of their combined might. It is said that a time-stretched artifact from the Cove of Timelessness lies at the heart of the ruins, and whispers of [Morganna the Seer](../People/Morganna%20the%20Seer.md)'s presence can be heard echoing through the labyrinth of shattered chambers.
+Deep within the Burning Sands, east of Lake Tseepoo, lies the Ruins of the Bound - a testament to a fierce battle waged between Djimm and rival celestial forces. The very earth bears the scars of their struggle, infused with the lingering essence of their combined might. It is said that a time-stretched artifact from the Cove of Timelessness lies at the heart of the ruins, and whispers of Morganna the Seer's presence can be heard echoing through the labyrinth of shattered chambers.
 
 
 ---

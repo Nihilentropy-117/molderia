@@ -1,6 +1,6 @@
 ## Corvus Shadowstrike
 
-A cunning rogue hailing from [Crow City](../Places/Crow%20City.md), Corvus was once part of [Villalobos](Villalobos.md)' nefarious operations. Now seeking redemption, he utilizes his exceptional skills in thievery and stealth to disrupt the hidden schemes of his former master.
+A cunning rogue hailing from Crow City, Corvus was once part of Villalobos' nefarious operations. Now seeking redemption, he utilizes his exceptional skills in thievery and stealth to disrupt the hidden schemes of his former master.
 
 
 ---

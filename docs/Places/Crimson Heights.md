@@ -1,6 +1,6 @@
 ## Crimson Heights
 
-Crimson Heights, a hidden village tucked away in the [Gothic Mountains](Gothic%20Mountains.md) and ruled by Queen [DAliz](../People/DAliz.md), is known for its unparalleled crafts of blood jewelry. Fusing alchemy with occult knowledge, gifted artisans imbue these precious artifacts with potent magic. 
+Crimson Heights, a hidden village tucked away in the Gothic Mountains and ruled by Queen DAliz, is known for its unparalleled crafts of blood jewelry. Fusing alchemy with occult knowledge, gifted artisans imbue these precious artifacts with potent magic. 
 
 ---
 

@@ -1,6 +1,6 @@
 ## Djinn's Crossroads
 
-In the heart of [Djinn](../People/Djinn.md) City, the [Djinn](../People/Djinn.md)'s Crossroads is a mysterious nexus where the boundaries between planes become thin, connecting to various portals. This volatile center has become an essential hub for beings across the multiverse seeking to manipulate and learn the intricacies of time. However, meddling with the energies within [Djinn](../People/Djinn.md)'s Crossroads can lead to disastrous consequences for both the city and the planes beyond.
+In the heart of Djinn City, the Djinn's Crossroads is a mysterious nexus where the boundaries between planes become thin, connecting to various portals. This volatile center has become an essential hub for beings across the multiverse seeking to manipulate and learn the intricacies of time. However, meddling with the energies within Djinn's Crossroads can lead to disastrous consequences for both the city and the planes beyond.
 
 
 ---

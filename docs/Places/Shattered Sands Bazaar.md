@@ -1,6 +1,6 @@
 ## Shattered Sands Bazaar
 
-A bustling marketplace located within [Targallene](Targallene.md), this bazaar specializes in ancient artifacts and relics. Managed by merchants who have received [Villalobos](../People/Villalobos.md)' blessing for their wares, the bazaar thrives on the exchange of mysterious and powerful items, attracting adventurers seeking answers hidden within [Djimm](../People/Djimm.md)'s Prophecies of Narrative. There are whispers of a secret society within the bazaar.
+A bustling marketplace located within Targallene, this bazaar specializes in ancient artifacts and relics. Managed by merchants who have received Villalobos' blessing for their wares, the bazaar thrives on the exchange of mysterious and powerful items, attracting adventurers seeking answers hidden within Djimm's Prophecies of Narrative. There are whispers of a secret society within the bazaar.
 
 
 ---
