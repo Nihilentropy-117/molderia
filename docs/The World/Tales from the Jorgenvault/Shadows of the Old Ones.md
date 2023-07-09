@@ -1,4 +1,6 @@
-1500 years ago, in the wake of the extinction of the Azlanti and Nethrael, Molderia was a land shrouded in mystery and uncertainty. The cosmic retribution of the Deucenium Impact had transformed the continent, suppressing natural magic and replacing it with its own unique energies. The races of Molderia struggled to adapt to this new reality, searching for answers and a way to harness again the old power that once flowed freely through their veins.
+(1589 years ago = 39 AD)
+---
+Long ago, in the wake of the extinction of the Azlanti and Nethrael, Molderia was a land shrouded in mystery and uncertainty. The cosmic retribution of the Deucenium Impact had transformed the continent, suppressing natural magic and replacing it with its own unique energies. The races of Molderia struggled to adapt to this new reality, searching for answers and a way to harness again the old power that once flowed freely through their veins.
 
 In the heart of the Jungle of Mogolo, a group of intrepid explorers embarked on a perilous journey. Led by the renowned scholar, Professor Arden, they sought to uncover the secrets hidden within the depths of the land. Their quest led them to the ruins of an ancient temple, long forgotten and buried beneath layers of time.
 

@@ -1,3 +1,5 @@
+(2488 years ago = 1 AD)
+---
 After the meeting, the founding members of the Council of Seven returned to their respective realms, carrying with them the weight of their newfound responsibility. They knew that the task ahead would not be easy, but they were determined to honor the memory of the Nethrael and restore balance to Darkmoon Vale.
 
 Lord Valerian Darkmoor, a wise and respected vampire lord, took it upon himself to convene the first official meeting of the Council. He sent out invitations to the representatives of the other six tribes, requesting their presence at his grand castle in the heart of the Underworld.
@@ -40,7 +42,7 @@ As the council grew in power and influence, Valerian began to recruit individual
 
 Together, Valerian and his recruits formed a secret network within the council, operating under the guise of various legitimate enterprises. Valerian was careful to maintain the delicate balance of power within the council, ensuring that their actions remained covert and did not provoke open conflict.
 
-~3000 Years Later
+(502 years ago = 1987 AD)
 ---
 
 As the years passed, the Council of Seven became a force to be reckoned with. Their influence extended into every corner of Molderia. However, Valerian realized that the Council of Seven needed a leader who could rally the people and inspire them to rise against their oppressors. And so, he turned to Queen D'aliz, his own granddaughter, who possessed the strength, charisma, and determination necessary to unite Molderia under a new order.
@@ -51,7 +53,7 @@ Under Queen D'aliz's leadership, the council worked tirelessly to rebuild the re
 
 As the years went by, Molderia flourished. Trade routes were established, cultural exchanges took place, and alliances formed between tribes that were once at odds with each other. 
 
-~800 Years Later
+(3 years ago = 2486 AD)
 ---
 
 Valerian, now in his final rest as a vampire, watched from the ethereal plane as his granddaughter, Queen D'aliz, continued to lead the Council of Seven. Under her rule, Darkmoon Vale flourished, with the tribes working together to rebuild and restore balance to the land. The council's efforts brought peace and prosperity to the realm, and Valerian's vision of a united Molderia was finally becoming a reality.

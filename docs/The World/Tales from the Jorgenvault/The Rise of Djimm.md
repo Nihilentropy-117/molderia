@@ -1,4 +1,4 @@
-SCENE (2500 YEARS AGO):
+(2599 years ago = 110 BD)
 ---
 
 Walthar Leafblade, a humble wizard devoted to the pursuit of knowledge and understanding, found himself burdened with a responsibility he could scarcely comprehend. As he stood before the towering form of Cthulhu, his small frame trembling in the presence of the ancient and incomprehensible being, Walthar struggled to make sense of the task laid before him.
@@ -31,7 +31,7 @@ And with that, Cthulhu retreated into the depths of the sea, leaving Walthar alo
 
 And so began the age of the Necromancer, wielding the power of the Old One and maneuvering the threads of fate. With every stroke of his quill, he wove a tale that would one day lead to the final confrontation between Cthulhu and Hastur, two titanic forces battling for dominion over the cosmos. And standing at the heart of it all, was Walthar Leafblade, the unlikely hero tasked with shaping the narrative that would determine the fate of all existence.
 
-SCENE (250 YEARS AGO):
+(252 years ago = 2237 AD)
 ---
 
 In the heart of the Necromancer's Tower, Djimm, adorned in his purple robes and surrounded by ancient tomes, was deeply engrossed in his studies. The air crackled with arcane energy, and the flickering candles cast eerie shadows on the aged stone walls. It was in this atmosphere of solitude and quiet contemplation that a chilling breeze suddenly swept through the room, causing the flames to dance and flicker.
@@ -58,7 +58,7 @@ Cthulhu's gaze bore into Djimm, piercing through the layers of his flippant deme
 
 Djimm's eyes gleamed. "Consider me your ally. I shall wield it against those who seek to bring unending chaos."
 
-SCENE (100 YEARS AGO):
+(102 years ago = 2387 AD)
 ---
 
 Hastur, his form a shifting vortex of yellow and black, stirred the cosmic winds as he awoke Cthulhu. The ancient entity, a monstrous vision of tentacles, claws, and eyes, rose from the depths of Molderia with a bone-chilling groan that echoed throughout the cosmos. 
@@ -81,7 +81,7 @@ Hastur bristled with rage, but held his silence. He knew his brother would not a
 
 And with that, Cthulhu sank back into the abyss, leaving Hastur alone in the vast emptiness of the cosmos, contemplating his next move.
 
-SCENE (100 YEARS LATER):
+(3 years ago = 2486 AD)
 ---
 
 *Hastur has indeed awoken Chthulu again.
@@ -114,7 +114,7 @@ Cthulhus form shimmering as he prepared to depart. "I look forward to our... par
 
 Djimm was left alone in his tower, contemplating the task ahead. A group of adventurers to stop a god... It was going to be an interesting challenge, to say the least.
 
-SCENE (1 YEAR LATER):
+(2 years ago = 2487 AD)
 ---
 
 Cthulhu's form materialized in the Necromancer's Tower, his many eyes shimmering. "Djimm," he greeted, his voice echoing throughout the chamber, "Tell me of our... progress."
@@ -135,7 +135,7 @@ Djimm nodded.
 
 Cthulhu's form faded, leaving Djimm alone in his tower. The necromancer sighed, turning his gaze to the vast desert below his tower. Another team... he thought, this time, they would not fail.
 
-SCENE (1 YEAR LATER):
+(Modern Day = 2489 AD)
 ---
 
 Cthulhu's massive form materialized in Djimm's bathroom, causing the tiles to crack and the room to shake. Djimm, standing in the shower, looked up in surprise and annoyance.
@@ -146,11 +146,11 @@ Cthulhu chuckled, his many eyes gleaming. "Apologies," he said, his voice echoin
 
 Djimm rolled his eyes, reaching for a towel. "Fragile or not, it's still my bathroom," he replied.
 
-Cthulhu's form shimmered, his eyes narrowing. "The time has come, Djimm," he said, his voice filled with determination. "The second group is ready to face Carcosa."
+Cthulhu's form shimmered, his eyes narrowing. "The time has come, Djimm," he said, his voice filled with determination. "The current group is ready to face Carcosa."
 
 Djimm nodded, wrapping the towel around his waist. "Good," he said. "But we need a plan. Carcosa is not a realm to be taken lightly."
 
-Cthulhu's massive tentacles waved. "Indeed," he said. "The group will need to infiltrate the city, find the oblisks binding the pathway between realms, and strike at them directly."
+Cthulhu's massive tentacles waved. "Indeed," he said. "The group will need to infiltrate the city, find the obelisks binding the pathway between realms, and strike at them directly."
 
 Djimm frowned "And what of the city's inhabitants? The cultists, the madness... How do they navigate through that?"
 

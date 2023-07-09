@@ -1,4 +1,4 @@
-SCENE (2500 YEARS AGO):
+(2599 years ago = 110 BD)
 
 Nyarlathotep, the Crawling Chaos, stood before Zerim, his sinister form radiating malevolence. The air around them crackled with dark energy as Nyarlathotep spoke, his voice a chilling whisper that sent shivers down Zerim's spine.
 
@@ -20,7 +20,7 @@ And with that, Nyarlathotep disappeared into the shadows, leaving Zerim alone wi
 
 And so, Zerim set out on his path, using his position within the Office to gather loyal followers, to enforce strict regulations and oppressive laws. Under his leadership, the Office became a symbol of fear and control, a place where the slightest infraction could lead to dire consequences.
 
-SCENE (250 YEARS AGO):
+(252 years ago = 2237 AD)
 
 In the heart of the Office, Zerim, adorned in his robes, sat behind a massive desk, surrounded by stacks of paperwork and scrolls. The air was heavy with the scent of ink and the sound of quills scratching against parchment. Zerim's eyes scanned the documents before him, his mind focused on the task at hand.
 
@@ -44,7 +44,7 @@ And with that, Nyarlathotep disappeared into the shadows, leaving Zerim alone wi
 
 And so, Zerim continued his reign of fear and control, using the Office as a tool to suppress dissent and maintain the oppressive rule of Nyarlathotep. Under his leadership, the Office became a symbol of darkness and tyranny, a place where the will of the Crawling Chaos was enforced without mercy.
 
-SCENE (100 YEARS AGO):
+(102 years ago = 2387 AD)
 
 Nyarlathotep, his form a swirling mass of darkness and madness, materialized in the heart of the Office, the very embodiment of chaos and destruction. Zerim, adorned in his dark robes, stood before him, his eyes gleaming with a cold determination.
 
@@ -57,7 +57,7 @@ Nyarlathotep's eyes gleamed with a twisted pleasure, his form shifting and chang
 Nyarlathotep's form shimmered, his eyes glowing with a malevolent light. "Go, Zerim," he commanded, his voice echoing in the chamber. "Continue your work."
 
 
-SCENE (100 YEARS LATER):
+(3 years ago = 2486 AD)
 
 Deep within the heart of the Office, Zerim sat behind his desk, surrounded by stacks of paperwork and scrolls. The room was shrouded in darkness, illuminated only by the dim light of flickering candles. Zerim's eyes, cold and calculating, scanned the documents before him, his mind focused on maintaining the iron grip of control.
 

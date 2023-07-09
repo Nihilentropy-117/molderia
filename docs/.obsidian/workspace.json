@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "57b43880c39527ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a98c06550a6ebdf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7c10572c454d14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cf7b7121760cf2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The World/A Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9769f6e00dce4cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c005795ba903e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4398df5d2efd1f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11e6077fc185df20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4292f4e919bb0037",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a975a9507c3f666",
+    "type": "split",
+    "children": [
+      {
+        "id": "c198f440a9a7c334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a4aa08a8ca913b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The World/A Timeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a929334a02c4323",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The World/A Timeline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d6b9869c41bb7f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de97f708940da649",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The World/A Timeline.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8cf7b7121760cf2b",
+  "lastOpenFiles": [
+    "The World/Tales from the Jorgenvault/The Rise of Djimm.md",
+    "The World/Tales from the Jorgenvault/The Fall of the Nethrael.md",
+    "The World/Tales from the Jorgenvault/The Dance of Shadows.md",
+    "The World/Tales from the Jorgenvault/Shadows of the Old Ones.md",
+    "The World/Tales from the Jorgenvault/A Pact for Balance.md",
+    "The World/A Timeline.md",
+    "The World/Tales from the Jorgenvault/A Timeline of Events.md",
+    "The World/Lore/Azlanti.md",
+    "The World/Lore/Council of Seven.md",
+    "The World/Lore",
+    "Untitled",
+    "The World/Tales from the Jorgenvault"
+  ]
+}

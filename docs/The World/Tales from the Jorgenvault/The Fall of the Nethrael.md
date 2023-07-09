@@ -1,4 +1,4 @@
-## ~4000 Years ago
+(2488 years ago = 1 AD)
 
 *The council members sit around the circular table, discussing the recent disturbances in the land. King Alarion of the Human Tribes enters, followed by his Scholars of Azlant and representatives from the Orc, Vampire, and Dwarf tribes.
 
@@ -44,7 +44,7 @@ King Alarion: (realizing the consequences) They were blind to the consequences o
 
 Chthulu: (his eyes glowing with an eerie intensity) The unleashed chaos consumed the Nethrael Kingdom. The Nethrael, consumed by their own ambition, vanished, their existence erased from this realm.
 
-*Flashback: 
+*Flashback (2489 years ago = 0 AD)
 
 	Nethrael High Priest stands before the Nethrael Council, holding a crystal staff.
 	
