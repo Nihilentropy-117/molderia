@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/L/L7.04.md",
+                "file": "Sessions/Session L (7.22)/L7.04.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/L/L7.04.md",
+                "file": "Sessions/Session L (7.22)/L7.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/L/L7.04.md",
+                "file": "Sessions/Session L (7.22)/L7.04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/L/L7.04.md"
+                "file": "Sessions/Session L (7.22)/L7.04.md"
               }
             }
           }
@@ -155,34 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cf7b7121760cf2b",
+  "active": "c4398df5d2efd1f4",
   "lastOpenFiles": [
-    "Sessions/L/L7.03.md",
-    "Sessions/L/L7.02.md",
-    "Sessions/L/L7.01.md",
-    "Sessions/L/L6.06.md",
-    "Sessions/L/L6.05.md",
-    "Sessions/L/L6.04.md",
-    "Sessions/L/L6.03.md",
-    "Sessions/L/L6.02.md",
-    "Sessions/L/L6.01.md",
-    "Sessions/L/L5.05.md",
-    "Sessions/L/L5.04.md",
-    "Sessions/L/L5.03.md",
-    "Sessions/L/L5.02.md",
-    "Sessions/L/L5.01.md",
-    "Sessions/L/L4.06.md",
-    "Sessions/L/L4.05.md",
-    "Sessions/L/L4.04.md",
-    "Sessions/L/L4.03.md",
-    "Sessions/L/L4.02.md",
-    "Sessions/L/L4.01.md",
-    "Sessions/L/L3.09.md",
-    "Sessions/L/L3.08.md",
-    "Sessions/L/L3.07.md",
-    "Sessions/L/L3.06.md",
-    "Sessions/L/L3.05.md",
-    "Sessions/L/L3.04.md",
+    "Sessions/Session L (7.22)/L7.03.md",
+    "Sessions/Session L (7.22)/L7.02.md",
+    "Sessions/Session L (7.22)/L7.01.md",
+    "Sessions/Session L (7.22)/L6.06.md",
+    "Sessions/Session L (7.22)/L6.05.md",
+    "Sessions/Session L (7.22)/L6.04.md",
+    "Sessions/Session L (7.22)/L6.03.md",
+    "Sessions/Session L (7.22)/L6.02.md",
+    "Sessions/Session L (7.22)/L6.01.md",
+    "Sessions/Session L (7.22)/L5.05.md",
+    "Sessions/Session L (7.22)/L5.04.md",
+    "Sessions/Session L (7.22)/L5.03.md",
+    "Sessions/Session L (7.22)/L5.02.md",
+    "Sessions/Session L (7.22)/L5.01.md",
+    "Sessions/Session L (7.22)/L4.06.md",
+    "Sessions/Session L (7.22)/L4.05.md",
+    "Sessions/Session L (7.22)/L4.04.md",
+    "Sessions/Session L (7.22)/L4.03.md",
+    "Sessions/Session L (7.22)/L4.02.md",
+    "Sessions/Session L (7.22)/L4.01.md",
+    "Sessions/Session L (7.22)/L3.09.md",
+    "Sessions/Session L (7.22)/L3.08.md",
+    "Sessions/Session L (7.22)/L3.07.md",
+    "Sessions/Session L (7.22)/L3.06.md",
+    "Sessions/Session L (7.22)/L3.05.md",
+    "Sessions/Session L (7.22)/L3.04.md",
     "CNAME",
     "The World/Lore",
     "Untitled",
