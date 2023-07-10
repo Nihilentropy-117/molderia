@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/L/L2.04.md",
+                "file": "Sessions/L/L7.04.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/L/L2.04.md",
+                "file": "Sessions/L/L7.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/L/L2.04.md",
+                "file": "Sessions/L/L7.04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/L/L2.04.md"
+                "file": "Sessions/L/L7.04.md"
               }
             }
           }
@@ -157,22 +157,33 @@
   },
   "active": "8cf7b7121760cf2b",
   "lastOpenFiles": [
+    "Sessions/L/L7.03.md",
+    "Sessions/L/L7.02.md",
+    "Sessions/L/L7.01.md",
+    "Sessions/L/L6.06.md",
+    "Sessions/L/L6.05.md",
+    "Sessions/L/L6.04.md",
+    "Sessions/L/L6.03.md",
+    "Sessions/L/L6.02.md",
+    "Sessions/L/L6.01.md",
+    "Sessions/L/L5.05.md",
+    "Sessions/L/L5.04.md",
+    "Sessions/L/L5.03.md",
+    "Sessions/L/L5.02.md",
+    "Sessions/L/L5.01.md",
+    "Sessions/L/L4.06.md",
+    "Sessions/L/L4.05.md",
+    "Sessions/L/L4.04.md",
+    "Sessions/L/L4.03.md",
+    "Sessions/L/L4.02.md",
+    "Sessions/L/L4.01.md",
+    "Sessions/L/L3.09.md",
+    "Sessions/L/L3.08.md",
+    "Sessions/L/L3.07.md",
+    "Sessions/L/L3.06.md",
+    "Sessions/L/L3.05.md",
+    "Sessions/L/L3.04.md",
     "CNAME",
-    "Sessions/L/L2.03.md",
-    "Sessions/L/L2.02.md",
-    "Sessions/L/L2.01.md",
-    "Sessions/L/L1.03.md",
-    "Sessions/L/L1.02.md",
-    "Sessions/L/L1.01.md",
-    "The World/A Timeline.md",
-    "The World/Tales from the Jorgenvault/The Rise of Djimm.md",
-    "The World/Tales from the Jorgenvault/The Fall of the Nethrael.md",
-    "The World/Tales from the Jorgenvault/The Dance of Shadows.md",
-    "The World/Tales from the Jorgenvault/Shadows of the Old Ones.md",
-    "The World/Tales from the Jorgenvault/A Pact for Balance.md",
-    "The World/Tales from the Jorgenvault/A Timeline of Events.md",
-    "The World/Lore/Azlanti.md",
-    "The World/Lore/Council of Seven.md",
     "The World/Lore",
     "Untitled",
     "The World/Tales from the Jorgenvault"
