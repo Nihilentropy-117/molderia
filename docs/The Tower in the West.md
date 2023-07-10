@@ -1,0 +1,6 @@
+The Tower in the West, often referred to simply as 'The Tower,' is a location steeped in mystery and ancient magic. Its origins are lost to time, but it is believed to have been built by a long-forgotten civilization, and its purpose has been the subject of much speculation among scholars. Some believe it to be a prison for ancient evils, others a repository of forbidden knowledge, while still others suggest it is a nexus point for ley lines of magical energy that crisscross the land.
+
+The Tower stands alone in a desolate landscape, its silhouette stark against the setting sun. It is constructed from an unknown blackened stone, seemingly impervious to the ravages of time and weather. The Tower is cylindrical, with a single entrance at its base and no visible windows. The interior is a labyrinth of rooms and corridors, filled with arcane symbols and strange, otherworldly machinery.
+
+A single Necromancer is said to inhabit the Tower at any given time, a guardian or caretaker of its secrets. These Necromancers, known as the 'Masters of the Tower,' are chosen by a supernatural force and bound to the Tower until they can pass on their duties to a successor. The current Master is Jimoryn Faelan, a figure of considerable power and mystery.
+

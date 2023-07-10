@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "202132756aa24468",
+        "id": "7de66f2e36b90923",
         "type": "tabs",
         "children": [
           {
-            "id": "bca959939636bb02",
+            "id": "9b54d161ce30df4d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,223 +16,31 @@
             }
           },
           {
-            "id": "233108f22f87d64d",
+            "id": "99acdd8fbd2573cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elder Beings/Araknyss, The Eight-Eyed Elder.md",
+                "file": "Lore/Necromancer that lives in West.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc54ef14576c7d57",
+            "id": "08f6958cc2e50ede",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elder Beings/Vordalia, The Sphere Seeker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57f7f42b516bf0b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elder Beings/Frondix, The Basketcase of Reality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0168c4b40064bf30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Ashen Monastery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6cf2ef46caab559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wildlife/Curious Colonic Bees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f6091420a0637ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wildlife/Dusk's Devourer Daisies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a788106df123e0fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artifacts/Anal Beads of Angor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb3b438aeacacf03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Angor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69ca254303d9929a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Thiccbottom's Oasis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2268cbd816504fcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Slopefell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19318abbc87d9077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Goldengrove.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b83d54fdf296d2f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Angor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5339c9c1e66a418b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Pridehold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fa07b25299fd716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Religion - Faiths & Beliefs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d986950cc1a8076c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/Banjo the Puppet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aecf906adf33cc60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/Banjo the Puppet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "143d26ec17e03170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Plane of Infinite Ranch Dressing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e88c49c604ea3ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wildlife/Curious Colonic Bees.md",
+                "file": "The Tower in the West.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildlife/Curious Colonic Bees.md",
+                "file": "The Tower in the West.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildlife/Curious Colonic Bees.md",
+                "file": "The Tower in the West.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildlife/Curious Colonic Bees.md"
+                "file": "The Tower in the West.md"
               }
             }
           }
@@ -359,36 +167,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e88c49c604ea3ace",
+  "active": "08f6958cc2e50ede",
   "lastOpenFiles": [
-    "Places/The Incessant Sock Dimension.md",
-    "Places/Plane of Infinite Ranch Dressing.md",
+    "Lore/Necromancer that lives in West.md",
+    "The Tower in the West.md",
+    "The World/Tales from the Jorgenvault/The Fall of the Nethrael.md",
+    "The World/Tales from the Jorgenvault/The Rise of Djimm.md",
+    "The World/Tales from the Jorgenvault/The Dance of Shadows.md",
+    "The World/Tales from the Jorgenvault/Shadows of the Old Ones.md",
+    "The World/Tales from the Jorgenvault/A Pact for Balance.md",
+    "Lore/Goblin Trade Federation.md",
+    "Untitled.md",
     "Gods/Banjo the Puppet.md",
-    "Gods/Pebble the Modest.md",
     "Lore/Religion - Faiths & Beliefs.md",
     "Places/Pridehold.md",
-    "Wildlife/Curious Colonic Bees.md",
-    "Wildlife",
     "Places/Angor.md",
-    "Artifacts/Anal Beads of Angor.md",
     "Places/Goldengrove.md",
     "Places/Slopefell.md",
     "Places/Thiccbottom's Oasis.md",
+    "Artifacts/Anal Beads of Angor.md",
     "Wildlife/Dusk's Devourer Daisies.md",
+    "Wildlife/Curious Colonic Bees.md",
     "Places/Ashen Monastery.md",
     "Elder Beings/Frondix, The Basketcase of Reality.md",
-    "Elder Beings/Kaospect, The Fractured Seer.md",
     "Elder Beings/Vordalia, The Sphere Seeker.md",
-    "Elder Beings/Araknyss, The Eight-Eyed Elder.md",
+    "Places/Plane of Infinite Ranch Dressing.md",
+    "Places/The Incessant Sock Dimension.md",
+    "Gods/Pebble the Modest.md",
+    "Wildlife",
+    "Elder Beings/Kaospect, The Fractured Seer.md",
     "Elder Beings",
-    "Sessions/Session L (7.22)/L7.04.md",
-    "Nethreal Artifacts/Nethrael Stones.md",
-    "Mechanics/Leveling.md",
-    "Nethreal Artifacts/Staff of Verdant Harmony.md",
-    "Nethreal Artifacts/Amulet of Celestial Insight.md",
-    "Nethreal Artifacts/Blade of Ethereal Shadows.md",
-    "Nethreal Artifacts/Crown of Elemental Mastery.md",
-    "Nethreal Artifacts/Draan's Resonator.md",
     "Nethreal Artifacts",
     "Mechanics",
     "CNAME",
