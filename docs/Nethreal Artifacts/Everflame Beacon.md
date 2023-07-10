@@ -1,0 +1,1 @@
+A lantern-like device that emanates bright, mystical flames despite having no source of fuel. By using a Nethrael Stone, the player can intensify the device's radiance or wield more easily manipulatable colors and temperatures, generating devastating blazing visions, revealing long-forgotten hidden areas, or enhancing charm casting.

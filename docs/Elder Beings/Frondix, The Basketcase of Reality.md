@@ -1,0 +1,11 @@
+Frondix, known colloquially as the Basketcase of Reality, is a being as enigmatic as he is eccentric. As old as the first willow tree, Frondix transcends the understanding of the mortal realm. His madness or brilliance, depending on who you ask, centers around an obsession with a seemingly mundane task - basketweaving.
+
+Frondix takes the form of an ancient, hunched humanoid draped in garments of woven vines, leaves, and reeds. His piercing eyes reflect the vibrant green of fresh spring leaves, and his skin resembles the rough bark of an old tree. Around him hover baskets of all shapes and sizes, interwoven with threads of reality itself.
+
+Frondix is a master weaver of not just baskets, but of the very fabric of existence. He can twist and knot reality like willow reeds, creating pocket dimensions shaped like enormous baskets, or trapping adversaries in time-loops resembling intricate weaves. His Basket of Infinite Holding can contain an entire universe, while his Basket of Temporal Snare can trap foes in a perpetual cycle of weaving and unweaving a basket.
+
+Frondix is consumed by his basketweaving. His madness expresses itself in an insatiable desire to turn everything into baskets - trees, streams, clouds, dreams, and occasionally unfortunate adventurers. His insanity, however, hides an uncanny wisdom and insight into the nature of existence, making him a powerful ally or a terrifying adversary, all contingent on his current weaving project.
+
+Frondix resides within the Weft and Warp, a trans-dimensional realm resembling an infinite field of willow trees under a sky raining wicker. The ground is covered in baskets that hum with energy and echo with whispers of ancient secrets. 
+
+Interacting with Frondix can be as bewildering as navigating a maze of woven reeds. His obsession with basketweaving is all-consuming, and adventurers might need to engage him in his madness to get his attention. Presenting him with a rare reed or an interesting weave pattern might gain his favor, while criticizing his hobby or damaging his baskets could invoke his wrath.

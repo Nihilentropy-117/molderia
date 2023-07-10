@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a98c06550a6ebdf4",
+        "id": "202132756aa24468",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7c10572c454d14",
+            "id": "bca959939636bb02",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,19 +16,55 @@
             }
           },
           {
-            "id": "8cf7b7121760cf2b",
+            "id": "233108f22f87d64d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session L (7.22)/L7.04.md",
+                "file": "Elder Beings/Araknyss, The Eight-Eyed Elder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc54ef14576c7d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elder Beings/Vordalia, The Sphere Seeker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57f7f42b516bf0b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elder Beings/Frondix, The Basketcase of Reality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0168c4b40064bf30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elder Beings/Frondix, The Basketcase of Reality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session L (7.22)/L7.04.md",
+                "file": "Elder Beings/Frondix, The Basketcase of Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session L (7.22)/L7.04.md",
+                "file": "Elder Beings/Frondix, The Basketcase of Reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session L (7.22)/L7.04.md"
+                "file": "Elder Beings/Frondix, The Basketcase of Reality.md"
               }
             }
           }
@@ -157,35 +193,37 @@
   },
   "active": "c4398df5d2efd1f4",
   "lastOpenFiles": [
+    "Elder Beings/Kaospect, The Fractured Seer.md",
+    "Elder Beings/Frondix, The Basketcase of Reality.md",
+    "Elder Beings/Vordalia, The Sphere Seeker.md",
+    "Elder Beings/Araknyss, The Eight-Eyed Elder.md",
+    "Elder Beings",
+    "Sessions/Session L (7.22)/L7.04.md",
+    "Nethreal Artifacts/Nethrael Stones.md",
+    "Mechanics/Leveling.md",
+    "Nethreal Artifacts/Staff of Verdant Harmony.md",
+    "Nethreal Artifacts/Amulet of Celestial Insight.md",
+    "Nethreal Artifacts/Blade of Ethereal Shadows.md",
+    "Nethreal Artifacts/Crown of Elemental Mastery.md",
+    "Nethreal Artifacts/Draan's Resonator.md",
+    "Nethreal Artifacts/Wanderingsphere.md",
+    "Nethreal Artifacts/Everflame Beacon.md",
+    "Nethreal Artifacts/Bound Soulstone.md",
+    "Nethreal Artifacts/Oracle's Eye.md",
+    "Nethreal Artifacts/Solara's Luminous Glove.md",
+    "Nethreal Artifacts/Garrick's Echoing Bow.md",
+    "Nethreal Artifacts/Tome of Unseen Manipulation - First Edition of the Narrative.md",
+    "Nethreal Artifacts/Nethrael Leyline Nexus.md",
+    "Nethreal Artifacts/Lyra's Sunfire Crystal.md",
+    "Nethreal Artifacts/Gauntlets of Astral Might.md",
+    "index.md",
+    "Nethreal Artifacts",
+    "Mechanics",
     "Sessions/Session L (7.22)/L7.03.md",
     "Sessions/Session L (7.22)/L7.02.md",
     "Sessions/Session L (7.22)/L7.01.md",
-    "Sessions/Session L (7.22)/L6.06.md",
-    "Sessions/Session L (7.22)/L6.05.md",
-    "Sessions/Session L (7.22)/L6.04.md",
-    "Sessions/Session L (7.22)/L6.03.md",
-    "Sessions/Session L (7.22)/L6.02.md",
-    "Sessions/Session L (7.22)/L6.01.md",
-    "Sessions/Session L (7.22)/L5.05.md",
-    "Sessions/Session L (7.22)/L5.04.md",
-    "Sessions/Session L (7.22)/L5.03.md",
-    "Sessions/Session L (7.22)/L5.02.md",
-    "Sessions/Session L (7.22)/L5.01.md",
-    "Sessions/Session L (7.22)/L4.06.md",
-    "Sessions/Session L (7.22)/L4.05.md",
-    "Sessions/Session L (7.22)/L4.04.md",
-    "Sessions/Session L (7.22)/L4.03.md",
-    "Sessions/Session L (7.22)/L4.02.md",
-    "Sessions/Session L (7.22)/L4.01.md",
-    "Sessions/Session L (7.22)/L3.09.md",
-    "Sessions/Session L (7.22)/L3.08.md",
-    "Sessions/Session L (7.22)/L3.07.md",
-    "Sessions/Session L (7.22)/L3.06.md",
-    "Sessions/Session L (7.22)/L3.05.md",
-    "Sessions/Session L (7.22)/L3.04.md",
     "CNAME",
-    "The World/Lore",
-    "Untitled",
+    "Lore",
     "The World/Tales from the Jorgenvault"
   ]
 }

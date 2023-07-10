@@ -1,0 +1,1 @@
+This resplendent crystal sphere reverberates with arcane energy. When empowered with a Nethrael Stone, it functions as an arcane amplifier. It allows the wielder to cast spells at a higher potency, boosting their damage, range, or duration. As the player spends levels, the spell level that can be amplified increases, allowing for even greater magic manipulation.

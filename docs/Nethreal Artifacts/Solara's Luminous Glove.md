@@ -1,0 +1,1 @@
+This ancient glove contains a brilliant gem at its palm, radiating a warm and radiant glow. When imbued with a Nethrael Stone, it becomes a blindingly powerful source of light magic. The wielder can summon a radiant beams that sears enemies with radiant damage. The potency and intensity of the glove's abilities increase with each sacrificed level.

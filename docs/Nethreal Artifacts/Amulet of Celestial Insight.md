@@ -1,0 +1,1 @@
+This radiant amulet, when set with a glowing Nethrael Stone, grants the wearer unparalleled insight into the cosmos. When empowered, the amulet enhances the player's divination abilities, allowing them to see glimpses of the future and gain valuable foresight in combat. It also grants resistance to harmful magical effects and increases the player's spellcasting accuracy.

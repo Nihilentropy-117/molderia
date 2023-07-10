@@ -1,0 +1,1 @@
+This sleek and deadly sword, when empowered with a Nethrael Stone, becomes infused with shadowy energy. The blade gains the ability to phase through solid objects, allowing the wielder to bypass armor and defenses. It also grants the player the power to summon shadowy allies to aid them in battle, creating a formidable force against their enemies.

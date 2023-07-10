@@ -1,0 +1,3 @@
+A small handheld globe-like device with hidden star maps and alchemical mechanisms. As the player expends Nethrael Stones and empowers the Wanderingsphere, they become attuned to Cosmic Energy at a greater magnitude. This leads to the generation of powerful unpredictable effects demonstrating dominion over stellar reality unconfined by knowledge of the planet and conducive conditions dialed down, sending events off the continental scheme to total unforeseen Wilderness-type zone & CR dynamically placed planet-aligned vecho blaps. 
+
+Vecho blaps. 

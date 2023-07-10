@@ -1,0 +1,7 @@
+The Tome of Unseen Manipulation is an ancient, weathered grimoire bound in black leather, its pages filled with incomprehensible glyphs and enchantments that seem to twist and writhe when glanced upon. Within its pages lies the knowledge to beseech the Great Old One Cthulhu for personal favor and intervention.
+
+In order to activate the Tome, a player must sacrifice a significant amount of their own essence. This sacrifice involves permanently sacrificing a large amount of attuned Nethrael Stones. 
+
+Once activated, the player may request a major change or alteration in the DM's notes for the current session. This can include story twists, alterations to encounters, or major adjustments to the environment. However, the request must align with the enigmatic will of Cthulhu, and the DM retains the final say in whether the change is granted and how it manifests. The change should be a drastic and game-altering event.
+
+The party can only activate the Tome of Unseen Manipulation once, providing a single opportunity to beseech Cthulhu. Additionally, caution must be exercised as the consequences of invoking the Great Old One's power can have unforeseen and potentially dire ramifications. Cthulhu's actions are as enigmatic and unpredictable as the depths of the ocean.
