@@ -170,9 +170,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fa07b25299fd716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Religion - Faiths & Beliefs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d986950cc1a8076c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Banjo the Puppet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aecf906adf33cc60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Banjo the Puppet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "143d26ec17e03170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Plane of Infinite Ranch Dressing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e88c49c604ea3ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/The Incessant Sock Dimension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -238,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Pridehold.md",
+                "file": "Places/The Incessant Sock Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Pridehold.md",
+                "file": "Places/The Incessant Sock Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Pridehold.md"
+                "file": "Places/The Incessant Sock Dimension.md"
               }
             }
           }
@@ -299,9 +359,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5339c9c1e66a418b",
+  "active": "c4398df5d2efd1f4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Places/Plane of Infinite Ranch Dressing.md",
+    "Places/The Incessant Sock Dimension.md",
+    "Gods/Banjo the Puppet.md",
+    "Gods/Pebble the Modest.md",
+    "Lore/Religion - Faiths & Beliefs.md",
     "Places/Pridehold.md",
     "Wildlife/Curious Colonic Bees.md",
     "Wildlife",
@@ -325,9 +389,6 @@
     "Nethreal Artifacts/Blade of Ethereal Shadows.md",
     "Nethreal Artifacts/Crown of Elemental Mastery.md",
     "Nethreal Artifacts/Draan's Resonator.md",
-    "Nethreal Artifacts/Wanderingsphere.md",
-    "Nethreal Artifacts/Everflame Beacon.md",
-    "Nethreal Artifacts/Bound Soulstone.md",
     "Nethreal Artifacts",
     "Mechanics",
     "CNAME",
