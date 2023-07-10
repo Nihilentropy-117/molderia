@@ -8,3 +8,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
+
+extra_files:
+    - docs/CNAME
+
