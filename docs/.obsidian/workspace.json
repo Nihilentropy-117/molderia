@@ -225,7 +225,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/The Incessant Sock Dimension.md",
+                "file": "Wildlife/Curious Colonic Bees.md",
                 "mode": "source",
                 "source": false
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/The Incessant Sock Dimension.md",
+                "file": "Wildlife/Curious Colonic Bees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/The Incessant Sock Dimension.md",
+                "file": "Wildlife/Curious Colonic Bees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/The Incessant Sock Dimension.md"
+                "file": "Wildlife/Curious Colonic Bees.md"
               }
             }
           }
@@ -359,10 +359,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4398df5d2efd1f4",
+  "active": "e88c49c604ea3ace",
   "lastOpenFiles": [
-    "Places/Plane of Infinite Ranch Dressing.md",
     "Places/The Incessant Sock Dimension.md",
+    "Places/Plane of Infinite Ranch Dressing.md",
     "Gods/Banjo the Puppet.md",
     "Gods/Pebble the Modest.md",
     "Lore/Religion - Faiths & Beliefs.md",
