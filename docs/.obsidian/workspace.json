@@ -57,14 +57,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elder Beings/Frondix, The Basketcase of Reality.md",
+                "file": "Places/Ashen Monastery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6cf2ef46caab559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wildlife/Curious Colonic Bees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f6091420a0637ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wildlife/Dusk's Devourer Daisies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a788106df123e0fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artifacts/Anal Beads of Angor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb3b438aeacacf03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Angor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69ca254303d9929a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Thiccbottom's Oasis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2268cbd816504fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Slopefell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19318abbc87d9077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Goldengrove.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b83d54fdf296d2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Angor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5339c9c1e66a418b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Pridehold.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -130,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elder Beings/Frondix, The Basketcase of Reality.md",
+                "file": "Places/Pridehold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elder Beings/Frondix, The Basketcase of Reality.md",
+                "file": "Places/Pridehold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elder Beings/Frondix, The Basketcase of Reality.md"
+                "file": "Places/Pridehold.md"
               }
             }
           }
@@ -191,10 +299,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4398df5d2efd1f4",
+  "active": "5339c9c1e66a418b",
   "lastOpenFiles": [
-    "Elder Beings/Kaospect, The Fractured Seer.md",
+    "Untitled.md",
+    "Places/Pridehold.md",
+    "Wildlife/Curious Colonic Bees.md",
+    "Wildlife",
+    "Places/Angor.md",
+    "Artifacts/Anal Beads of Angor.md",
+    "Places/Goldengrove.md",
+    "Places/Slopefell.md",
+    "Places/Thiccbottom's Oasis.md",
+    "Wildlife/Dusk's Devourer Daisies.md",
+    "Places/Ashen Monastery.md",
     "Elder Beings/Frondix, The Basketcase of Reality.md",
+    "Elder Beings/Kaospect, The Fractured Seer.md",
     "Elder Beings/Vordalia, The Sphere Seeker.md",
     "Elder Beings/Araknyss, The Eight-Eyed Elder.md",
     "Elder Beings",
@@ -209,19 +328,8 @@
     "Nethreal Artifacts/Wanderingsphere.md",
     "Nethreal Artifacts/Everflame Beacon.md",
     "Nethreal Artifacts/Bound Soulstone.md",
-    "Nethreal Artifacts/Oracle's Eye.md",
-    "Nethreal Artifacts/Solara's Luminous Glove.md",
-    "Nethreal Artifacts/Garrick's Echoing Bow.md",
-    "Nethreal Artifacts/Tome of Unseen Manipulation - First Edition of the Narrative.md",
-    "Nethreal Artifacts/Nethrael Leyline Nexus.md",
-    "Nethreal Artifacts/Lyra's Sunfire Crystal.md",
-    "Nethreal Artifacts/Gauntlets of Astral Might.md",
-    "index.md",
     "Nethreal Artifacts",
     "Mechanics",
-    "Sessions/Session L (7.22)/L7.03.md",
-    "Sessions/Session L (7.22)/L7.02.md",
-    "Sessions/Session L (7.22)/L7.01.md",
     "CNAME",
     "Lore",
     "The World/Tales from the Jorgenvault"

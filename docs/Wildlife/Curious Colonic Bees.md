@@ -1,0 +1,3 @@
+Otherwise known as "Anal Bees." These bees, unlike any known species, have adapted to an unusual environment: the digestive tracts of large creatures. Here's how they might function:
+
+The Curious Colonic Bees are tiny, bioluminescent creatures that take residence within the intestines of large beasts. These bees are not parasites; instead, they form a strange symbiotic relationship with their hosts. They feed on the remnants of digested food, and in return, their luminescent bodies provide a source of light in the otherwise pitch-dark intestinal tracts. This light attracts certain types of parasites, which become disoriented and easier for the host's immune system to handle.
