@@ -1,7 +1,9 @@
 ---
+<!---
 NER: c31ade62
 RELATIONSHIPS: """Djimm Dislikes but respects D'Aliz, as she is another raiser of the dead, with vastly different intent.
 		Djimm likes D'Atta very much, as they share an absurdest sense of humor and a determined spirit.""" 
+
 ---
 ## D'Jimm
 
