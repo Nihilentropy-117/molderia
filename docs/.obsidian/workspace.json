@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Necromancer that lives in West.md",
+                "file": "Narrative/Lore/Necromancer that lives in West.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Tower in the West.md",
+                "file": "Places/The Tower in the West.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Tower in the West.md",
+                "file": "Places/The Tower in the West.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Tower in the West.md",
+                "file": "Places/The Tower in the West.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Tower in the West.md"
+                "file": "Places/The Tower in the West.md"
               }
             }
           }
@@ -167,19 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08f6958cc2e50ede",
+  "active": "c4398df5d2efd1f4",
   "lastOpenFiles": [
-    "Lore/Necromancer that lives in West.md",
-    "The Tower in the West.md",
-    "The World/Tales from the Jorgenvault/The Fall of the Nethrael.md",
-    "The World/Tales from the Jorgenvault/The Rise of Djimm.md",
-    "The World/Tales from the Jorgenvault/The Dance of Shadows.md",
-    "The World/Tales from the Jorgenvault/Shadows of the Old Ones.md",
-    "The World/Tales from the Jorgenvault/A Pact for Balance.md",
-    "Lore/Goblin Trade Federation.md",
     "Untitled.md",
-    "Gods/Banjo the Puppet.md",
-    "Lore/Religion - Faiths & Beliefs.md",
+    "Places/The Tower in the West.md",
+    "Narrative",
+    "Higher Beings",
+    "Narrative/Lore/Necromancer that lives in West.md",
+    "Narrative/The World/Tales from the Jorgenvault/The Fall of the Nethrael.md",
+    "Narrative/The World/Tales from the Jorgenvault/The Rise of Djimm.md",
+    "Narrative/The World/Tales from the Jorgenvault/The Dance of Shadows.md",
+    "Narrative/The World/Tales from the Jorgenvault/Shadows of the Old Ones.md",
+    "Narrative/The World/Tales from the Jorgenvault/A Pact for Balance.md",
+    "Narrative/Lore/Goblin Trade Federation.md",
+    "Higher Beings/Gods/Banjo the Puppet.md",
+    "Narrative/Lore/Religion - Faiths & Beliefs.md",
     "Places/Pridehold.md",
     "Places/Angor.md",
     "Places/Goldengrove.md",
@@ -189,18 +191,17 @@
     "Wildlife/Dusk's Devourer Daisies.md",
     "Wildlife/Curious Colonic Bees.md",
     "Places/Ashen Monastery.md",
-    "Elder Beings/Frondix, The Basketcase of Reality.md",
-    "Elder Beings/Vordalia, The Sphere Seeker.md",
+    "Higher Beings/The Elder/Frondix, The Basketcase of Reality.md",
+    "Higher Beings/The Elder/Vordalia, The Sphere Seeker.md",
     "Places/Plane of Infinite Ranch Dressing.md",
     "Places/The Incessant Sock Dimension.md",
-    "Gods/Pebble the Modest.md",
+    "Higher Beings/Gods/Pebble the Modest.md",
     "Wildlife",
-    "Elder Beings/Kaospect, The Fractured Seer.md",
-    "Elder Beings",
-    "Nethreal Artifacts",
-    "Mechanics",
+    "Higher Beings/The Elder",
+    "Artifacts/Nethreal Artifacts",
+    "Meta",
     "CNAME",
-    "Lore",
-    "The World/Tales from the Jorgenvault"
+    "Narrative/Lore",
+    "Narrative/The World/Tales from the Jorgenvault"
   ]
 }
