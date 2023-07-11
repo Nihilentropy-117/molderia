@@ -1,3 +1,8 @@
+---
+NER: c31ade62
+RELATIONSHIPS: """Djimm Dislikes but respects D'Aliz, as she is another raiser of the dead, with vastly different intent.
+		Djimm likes D'Atta very much, as they share an absurdest sense of humor and a determined spirit.""" 
+---
 ## D'Jimm
 
 Djimm is an intriguing figure, a necromancer who was brought up by Fey and is acknowledged as an extraplanar entity. His abode is an imposing tower situated in the West, where he is often seen in his splendid purple velvet bathrobe, an ostentatious testament to his unique sense of style.
