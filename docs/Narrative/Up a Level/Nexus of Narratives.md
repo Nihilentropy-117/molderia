@@ -1,0 +1,7 @@
+In the endless expanse of the multiverse, every conceivable reality resides within the Nexus of Narratives, a collection of universes spiraling together like a vast metaphysical Rolodex. Each page represents a unique reality, including worlds born from every narrative ever conceived. Among these myriad pages lies our Earth, Molderia, the Ethereal Echo, and the Unseen Spectrum.
+
+**Molderia** is one such page. It has its unique narratives, cultures, and history. Adjacent to it are pages of other worlds, including the Ethereal Echo and the Unseen Spectrum, which have been linked to it due to massive energy releases, as well as the reality containing Earth, tenuously linked by the Tsar Bomba Blast. 
+
+In the space between these realities, the Plot Holes, lurk entities of unspeakable horror. Among these are the Lovecraftian nightmares, waiting for the opportune moment when realities overlap. When the conditions are right, they can slip into the pages and wreak havoc on the unsuspecting inhabitants.
+
+These realities can sometimes align and pass through one another, creating moments of great energy release. When such a confluence occurs, a temporary link or anchor between these pages is formed, allowing travel between them. The overlapping of pages also results in shared characteristics, legends, and phenomena between the linked realities.

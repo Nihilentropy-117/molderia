@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wildlife/Curious Colonic Bees.md",
+                "file": "Narrative/Up a Level/Nexus of Narratives.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildlife/Curious Colonic Bees.md",
+                "file": "Narrative/Up a Level/Nexus of Narratives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildlife/Curious Colonic Bees.md",
+                "file": "Narrative/Up a Level/Nexus of Narratives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildlife/Curious Colonic Bees.md"
+                "file": "Narrative/Up a Level/Nexus of Narratives.md"
               }
             }
           }
@@ -193,8 +193,13 @@
   },
   "active": "b785547df570c323",
   "lastOpenFiles": [
-    "Wildlife/Dusk's Devourer Daisies.md",
+    "Narrative/Up a Level/Unseen Spectrum.md",
+    "Narrative/Up a Level/Ethereal Echo.md",
+    "Narrative/Up a Level/Nexus of Narratives.md",
+    "Narrative/Lore/Untitled.md",
+    "Narrative/Up a Level",
     "Wildlife/Curious Colonic Bees.md",
+    "Wildlife/Dusk's Devourer Daisies.md",
     "People/King of Angor.md",
     "Races/Angoraians.md",
     "Places/Angor.md",
@@ -218,16 +223,11 @@
     "Higher Beings/Gods/Banjo the Puppet.md",
     "Narrative/Lore/Religion - Faiths & Beliefs.md",
     "Places/Pridehold.md",
-    "Places/Goldengrove.md",
-    "Places/Slopefell.md",
-    "Places/Thiccbottom's Oasis.md",
-    "Artifacts/Anal Beads of Angor.md",
     "Wildlife",
     "Higher Beings/The Elder",
     "Artifacts/Nethreal Artifacts",
     "Meta",
     "CNAME",
-    "Narrative/Lore",
-    "Narrative/The World/Tales from the Jorgenvault"
+    "Narrative/Lore"
   ]
 }
