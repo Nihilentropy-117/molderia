@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/The World/Statistics/Population.md",
+                "file": "Narrative/The World/Statistics/Places/Miare.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alhadda.md",
+                "file": "Narrative/The World/Statistics/Places/Alhadda.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,11 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/The World/Statistics/Population.md",
+                "file": "Narrative/The World/Statistics/Places/Miare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/The World/Statistics/Population.md",
+                "file": "Narrative/The World/Statistics/Places/Miare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +137,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/The World/Statistics/Population.md"
+                "file": "Narrative/The World/Statistics/Places/Miare.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,18 +160,19 @@
   },
   "active": "9b54d161ce30df4d",
   "lastOpenFiles": [
-    "Alhadda.md",
+    "Narrative/Up a Level/Nexus of Narratives.md",
+    "Narrative/The World/Statistics/Places/Miare.md",
+    "Narrative/The World/Statistics/Places/Targallene.md",
+    "Untitled.md",
+    "Narrative/The World/Statistics/Places/Alhadda.md",
+    "Narrative/The World/Statistics/Population.md",
     "Races/Goblins.md",
     "Places/Angor.md",
-    "Narrative/The World/Statistics/Population.md",
     "Races/Angoraians.md",
-    "Targallene.md",
     "Narrative/The World/Statistics/Places/Mor'Ath Dor.md",
     "Narrative/The World/Statistics/Places",
-    "Untitled.md",
     "Narrative/Up a Level/Unseen Spectrum.md",
     "Narrative/The World/Statistics",
-    "Narrative/Up a Level/Nexus of Narratives.md",
     "Narrative/Up a Level/Ethereal Echo.md",
     "Narrative/Lore/Untitled.md",
     "Narrative/Up a Level",
@@ -191,7 +192,6 @@
     "Narrative/The World/Tales from the Jorgenvault/The Fall of the Nethrael.md",
     "Narrative/The World/Tales from the Jorgenvault/The Rise of Djimm.md",
     "Narrative/The World/Tales from the Jorgenvault/The Dance of Shadows.md",
-    "Narrative/The World/Tales from the Jorgenvault/Shadows of the Old Ones.md",
     "Wildlife",
     "Higher Beings/The Elder",
     "Artifacts/Nethreal Artifacts",
