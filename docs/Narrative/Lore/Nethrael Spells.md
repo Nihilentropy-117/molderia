@@ -1,7 +1,3 @@
-
-
-## 
-
 Memento Tempori
 
 **School:** transmutation; **Level:** 6

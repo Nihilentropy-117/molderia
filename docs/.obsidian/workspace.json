@@ -1,51 +1,52 @@
 {
   "main": {
-    "id": "57b43880c39527ee",
+    "id": "dd2a185c3701ad58",
     "type": "split",
     "children": [
       {
-        "id": "7de66f2e36b90923",
+        "id": "98070a9ad5133479",
         "type": "tabs",
         "children": [
           {
-            "id": "9b54d161ce30df4d",
+            "id": "c8852d016a361f98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/The World/Statistics/Places/Miare.md",
+                "file": "Narrative/Lore/Nethrael Sorcerer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "498008514f7e93b9",
+            "id": "68d94bd0b536ff75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/The World/Statistics/Places/Alhadda.md",
+                "file": "Narrative/Lore/Nethrael Spells.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9769f6e00dce4cec",
+    "id": "f53a88081245ddeb",
     "type": "split",
     "children": [
       {
-        "id": "5c005795ba903e34",
+        "id": "ae70e87a29c0d7a0",
         "type": "tabs",
         "children": [
           {
-            "id": "c4398df5d2efd1f4",
+            "id": "b066a43444896972",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,13 +56,13 @@
             }
           },
           {
-            "id": "11e6077fc185df20",
+            "id": "635cf76a55766480",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +71,7 @@
             }
           },
           {
-            "id": "4292f4e919bb0037",
+            "id": "2755d114bcbbcce4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,27 +82,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "2a975a9507c3f666",
+    "id": "5f21c1b84e5f622e",
     "type": "split",
     "children": [
       {
-        "id": "c198f440a9a7c334",
+        "id": "cd3cc9b689c3504e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4aa08a8ca913b5",
+            "id": "4059d972565191aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/The World/Statistics/Places/Miare.md",
+                "file": "Narrative/Lore/Nethrael Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -109,19 +110,19 @@
             }
           },
           {
-            "id": "9a929334a02c4323",
+            "id": "9755ac96d66a4a8a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/The World/Statistics/Places/Miare.md",
+                "file": "Narrative/Lore/Nethrael Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8d6b9869c41bb7f1",
+            "id": "1e878657fcc510d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,21 +133,31 @@
             }
           },
           {
-            "id": "de97f708940da649",
+            "id": "a772fae2e91c56bd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/The World/Statistics/Places/Miare.md"
+                "file": "Narrative/Lore/Nethrael Spells.md"
+              }
+            }
+          },
+          {
+            "id": "cb29450d4343aaca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,43 +169,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b54d161ce30df4d",
+  "active": "b066a43444896972",
   "lastOpenFiles": [
-    "Narrative/Up a Level/Nexus of Narratives.md",
-    "Narrative/The World/Statistics/Places/Miare.md",
-    "Narrative/The World/Statistics/Places/Targallene.md",
-    "Untitled.md",
-    "Narrative/The World/Statistics/Places/Alhadda.md",
-    "Narrative/The World/Statistics/Population.md",
-    "Races/Goblins.md",
-    "Places/Angor.md",
-    "Races/Angoraians.md",
-    "Narrative/The World/Statistics/Places/Mor'Ath Dor.md",
-    "Narrative/The World/Statistics/Places",
-    "Narrative/Up a Level/Unseen Spectrum.md",
-    "Narrative/The World/Statistics",
-    "Narrative/Up a Level/Ethereal Echo.md",
-    "Narrative/Lore/Untitled.md",
-    "Narrative/Up a Level",
-    "Wildlife/Curious Colonic Bees.md",
+    "docs",
+    "Untitled Folder",
+    "Narrative/Lore/Nethrael Sorcerer.md",
+    "Narrative/Sessions/merged.md",
+    "index.md",
+    "People/Jimorin Faelin.md",
+    "Narrative/Notation.md",
+    "Narrative/Lore/Nethrael Spells.md",
+    "Sessions.zip",
     "Wildlife/Dusk's Devourer Daisies.md",
-    "People/King of Angor.md",
+    "Wildlife/Curious Colonic Bees.md",
+    "Wildlife",
+    "The Portal Nexus/The Portal Nexus.md",
+    "The Portal Nexus/ElevenLabs_2023-08-27T20 53 50_Glados_ivc_sb100_se100_m2.mp3",
+    "The Portal Nexus/ElevenLabs_2023-08-27T20 50 51_Glados_ivc_sb100_se100_m2.mp3",
+    "The Portal Nexus/ElevenLabs_2023-08-27T20 48 26_Glados_ivc_sb100_se100_m2.mp3",
+    "The Portal Nexus/ElevenLabs_2023-08-27T20 47 39_Glados_ivc_sb100_se100_m2.mp3",
+    "The Portal Nexus/ElevenLabs_2023-08-27T20 46 50_Glados_ivc_sb100_se100_m2.mp3",
+    "The Portal Nexus/ElevenLabs_2023-08-27T20 45 46_Glados_ivc_sb100_se100_m2.mp3",
+    "The Portal Nexus/ElevenLabs_2023-08-27T20 44 59_Glados_ivc_sb100_se100_m2.mp3",
+    "Races/Qetari.md",
+    "Races/Orcs.md",
     "Races/Nethrael.md",
     "Races/Invisigoths.md",
+    "Races/Goblins.md",
     "Races/Azlanti.md",
-    "Races/Orcs.md",
-    "Races",
-    "Narrative/Lore/Necromancer that lives in West.md",
-    "People/Djimm.md",
-    "Places/The Tower in the West.md",
-    "Narrative",
-    "Higher Beings",
-    "Narrative/The World/Tales from the Jorgenvault/The Fall of the Nethrael.md",
-    "Narrative/The World/Tales from the Jorgenvault/The Rise of Djimm.md",
-    "Narrative/The World/Tales from the Jorgenvault/The Dance of Shadows.md",
-    "Wildlife",
-    "Higher Beings/The Elder",
-    "Artifacts/Nethreal Artifacts",
-    "Meta"
+    "Races/Angoraians.md",
+    "Places/Yaj.md",
+    "Places/Whisperwind Heights.md",
+    "Places/Whispershroud Marsh.md",
+    "Places/Whispering Glade.md",
+    "Places/Whispering Garden.md",
+    "Places/Well of Whispers.md",
+    "Places/Weeping Ruins.md",
+    "Places/Wailing Woods.md",
+    "Places/Vortex of Sudi.md",
+    "Untitled.canvas"
   ]
 }
