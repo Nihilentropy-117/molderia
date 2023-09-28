@@ -1,7 +1,7 @@
 
 This magical artifact is a string of five round, luminous beads made from enchanted amber. The beads emit a soft, warm glow that pulsates gently. A faint magical aura shrouds these items, hinting at their unusual origin linked to the Curious Colonic Bees of Angor.
 
-The Anal Beads of Angor can increase or decrease in size at the user's command. When the command word is spoken, the beads can grow as large as 1 foot in diameter or shrink to the size of a pea. The string connecting the beads stretches or shrinks accordingly.
+The Anal Beads of Angor can increase or decrease in size at the user's command. When the command word is spoken, the beads can grow as large as 12 feet in diameter or shrink to the size of a pea. The string connecting the beads stretches or shrinks accordingly.
 
 1. **Size Control:** As an action, you can speak the command word to cause the beads to enlarge or shrink. The size of the beads can be controlled individually or collectively.
     
